@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ed Freyfogle</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Ed Freyfogle&#39;s blog
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jun 2016 03:12:03 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Jun 2016 03:12:03 +0200</lastBuildDate>
+    <link>http://freyfogle.com/</link>
+    <atom:link href="http://freyfogle.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Jun 2016 01:24:13 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Jun 2016 01:24:13 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -25,8 +25,8 @@ It was my first time to Girona, which is shameful given how close it is to Barce
 
 </description>
         <pubDate>Tue, 24 May 2016 14:22:58 +0200</pubDate>
-        <link>http://yourdomain.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</guid>
+        <link>http://freyfogle.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</guid>
         
         
         <category>events,</category>
@@ -49,8 +49,8 @@ It was my first time to Girona, which is shameful given how close it is to Barce
 
 </description>
         <pubDate>Mon, 02 May 2016 19:24:36 +0200</pubDate>
-        <link>http://yourdomain.com/post/143741854375/moving-the-blog</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/143741854375/moving-the-blog</guid>
+        <link>http://freyfogle.com/post/143741854375/moving-the-blog</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/143741854375/moving-the-blog</guid>
         
         
         <category>blog</category>
@@ -82,8 +82,8 @@ Foto by &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=4759312
 
 </description>
         <pubDate>Mon, 11 Apr 2016 16:29:51 +0200</pubDate>
-        <link>http://yourdomain.com/post/142627086455/thoughts-on-the-uk-euro-referendum</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/142627086455/thoughts-on-the-uk-euro-referendum</guid>
+        <link>http://freyfogle.com/post/142627086455/thoughts-on-the-uk-euro-referendum</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/142627086455/thoughts-on-the-uk-euro-referendum</guid>
         
         
       </item>
@@ -97,8 +97,8 @@ Final thing: if geo events are your thing &lt;a href=&quot;http://geomobldn.org/
 
 </description>
         <pubDate>Thu, 25 Feb 2016 11:55:45 +0100</pubDate>
-        <link>http://yourdomain.com/post/139962599485/speaking-at-jornadas-sig-libre</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/139962599485/speaking-at-jornadas-sig-libre</guid>
+        <link>http://freyfogle.com/post/139962599485/speaking-at-jornadas-sig-libre</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/139962599485/speaking-at-jornadas-sig-libre</guid>
         
         
         <category>jornadasSIGlibre,</category>
@@ -122,8 +122,8 @@ This thoughtful approach is not always quick, but it is solid and it is paying o
 All of that isn’t to say there are not challenges ahead for MyBuilder. The path from start-up to scale-up, from 5 team members to 50+, and then 200+, is not a simple one. Likewise, providing a high quality service raises customer expectations, and those expectations need to be continually met and exceeded. As MyBuilder moves out of the start-up phase of life and increasingly becomes a household name, I’m hopeful my own experiences and perspective can help on their journey. &lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Feb 2016 15:19:21 +0100</pubDate>
-        <link>http://yourdomain.com/post/139847718265/joining-the-board-of-mybuilder</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/139847718265/joining-the-board-of-mybuilder</guid>
+        <link>http://freyfogle.com/post/139847718265/joining-the-board-of-mybuilder</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/139847718265/joining-the-board-of-mybuilder</guid>
         
         
         <category>mybuilder</category>
@@ -139,8 +139,8 @@ All of that isn’t to say there are not challenges ahead for MyBuilder. The pat
 
 </description>
         <pubDate>Fri, 19 Feb 2016 22:34:00 +0100</pubDate>
-        <link>http://yourdomain.com/post/139617318635/co-working-life</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/139617318635/co-working-life</guid>
+        <link>http://freyfogle.com/post/139617318635/co-working-life</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/139617318635/co-working-life</guid>
         
         
         <category>betahaus,</category>
@@ -162,8 +162,8 @@ All of that isn’t to say there are not challenges ahead for MyBuilder. The pat
 
 </description>
         <pubDate>Wed, 17 Feb 2016 13:43:16 +0100</pubDate>
-        <link>http://yourdomain.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</guid>
+        <link>http://freyfogle.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</guid>
         
         
         <category>openstreetmap</category>
@@ -180,8 +180,8 @@ All of that isn’t to say there are not challenges ahead for MyBuilder. The pat
 
 </description>
         <pubDate>Tue, 09 Feb 2016 11:13:35 +0100</pubDate>
-        <link>http://yourdomain.com/post/138980702260/interviewed-by-geospatial-training-español</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/138980702260/interviewed-by-geospatial-training-español</guid>
+        <link>http://freyfogle.com/post/138980702260/interviewed-by-geospatial-training-español</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/138980702260/interviewed-by-geospatial-training-español</guid>
         
         
         <category>interview</category>
@@ -195,8 +195,8 @@ Unfortunately I’m struggling to find compelling podcast content in German thou
 
 </description>
         <pubDate>Mon, 08 Feb 2016 13:39:47 +0100</pubDate>
-        <link>http://yourdomain.com/post/138920126695/podcasts</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/138920126695/podcasts</guid>
+        <link>http://freyfogle.com/post/138920126695/podcasts</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/138920126695/podcasts</guid>
         
         
         <category>podcasts</category>
@@ -244,8 +244,8 @@ Unfortunately I’m struggling to find compelling podcast content in German thou
 
 </description>
         <pubDate>Fri, 29 Jan 2016 12:55:13 +0100</pubDate>
-        <link>http://yourdomain.com/post/138272982085/goals-for-2016</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/138272982085/goals-for-2016</guid>
+        <link>http://freyfogle.com/post/138272982085/goals-for-2016</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/138272982085/goals-for-2016</guid>
         
         
       </item>
