@@ -6,35 +6,247 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jun 2016 00:08:52 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Jun 2016 00:08:52 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Jun 2016 02:29:12 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jun 2016 02:29:12 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>My Jornadas SIG Libre #siglibre10 talk</title>
+        <description>&lt;p&gt;Today I’m in Girona speaking at the 10th &lt;a href=&quot;http://www.sigte.udg.edu/jornadassiglibre/&quot;&gt;Jornadas SIG Libre&lt;/a&gt;, the main geo free and opensource software event in Spain. Many thanks to the organizers for putting together the event and allowing me to speak.
+It was my first time to Girona, which is shameful given how close it is to Barcelona (40min by high speed train), and the city is beautiful. Likewise the university, and in fact the conference was held in an old monestary. Here’s a great shot of me by twitter user &lt;a href=&quot;https://twitter.com/inspide_me/status/735037022230982656&quot;&gt;@inspide_me&lt;/a&gt; speaking in this amazing venue.&lt;/p&gt;
+&lt;center&gt;&lt;figure data-orig-width=&quot;600&quot; data-orig-height=&quot;1067&quot; class=&quot;tmblr-full&quot;&gt;&lt;center&gt;&lt;img data-orig-width=&quot;600&quot; data-orig-height=&quot;1067&quot; src=&quot;http://65.media.tumblr.com/10bb043e2463d46e238a3af4a83b45b3/tumblr_inline_o7ofe1weJk1ravz8f_540.jpg&quot; /&gt;&lt;/center&gt;&lt;/figure&gt;&lt;/center&gt;
+&lt;p /&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;My talk focused on some of the trends I’ve seen in running &lt;a href=&quot;http://geomobldn.org/&quot;&gt;#geomob&lt;/a&gt; over the last years. The obvious point is that with the rise of smart phones geo and location based services have now become the norm in everyone’s life - rich and poor, young and old. As a consequence, the key differentiatior of success and failure is increasingly NOT technical perfection and feature completeness, but rather usability. Simple wins, a lesson it is often easy for developers to forget.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;My talk is below, let me know what you think.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;8fa76f07490e41eb9b03130ccfb0d855&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Wed, 01 Jun 2016 11:22:44 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/06/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/06/01/welcome-to-jekyll.html</guid>
+        <pubDate>Tue, 24 May 2016 14:22:58 +0200</pubDate>
+        <link>http://yourdomain.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/144851440100/my-jornadas-sig-libre-siglibre10-talk</guid>
         
         
-        <category>jekyll</category>
+        <category>events,</category>
         
-        <category>update</category>
+        <category>speaking,</category>
+        
+        <category>jornadasSIGlibre,</category>
+        
+        <category>siglibre10</category>
+        
+      </item>
+    
+      <item>
+        <title>Moving the blog</title>
+        <description>&lt;p&gt;I’ve decided to move this blog off of tumblr and onto something I control more directly, probably also with a better front page on freyfogle.com that gives a bit more background about me and what I’m up to.&lt;/p&gt;
+
+&lt;p&gt;Partially I’m frustrated with tumblr’s tools (particularly the way it tries to “help” with formatting), partially I’m worried about tumblr’s future as parent-company yahoo sells, but most of all I want to create a better first impression for my digital identity.&lt;/p&gt;
+
+&lt;p&gt;Does anyone have any recommendations (do not say wordpress, I hate wordpress). Right now I’m leaning toward &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt; as it is plain text, which I can relate to.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 May 2016 19:24:36 +0200</pubDate>
+        <link>http://yourdomain.com/post/143741854375/moving-the-blog</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/143741854375/moving-the-blog</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on the UK Euro referendum</title>
+        <description>&lt;p&gt;A few weeks back, on the 21st of Februrary to be exact, the UK government announced there will be a referendum about leaving the EU. Though I no longer live in the UK, I write these thoughts on the referendum as an EU citizen who spent the last 10 years living there, my two children were born there, and a few years ago my wife got UK citizenship.  While in the UK I (with another non-UK EU citizen) started a company that received foreign investment, employed and trained about 60 people (over the course of the 10 years, not all at once), and built a small, but global, business. I have paid my fair share of tax - and far more than any person’s fair share of rent - in the UK, I experienced the pleasure and pain of the NHS, I celebrated the Queen’s jubilee, I am an investor in about 10 different UK businesses, etc. I of course don’t have the chance to vote in the referendum, but nevertheless wanted to briefly express my view.&lt;/p&gt;
+
+&lt;p&gt;One of the frustrations with the discussion around a big decision like the referendum (or the Scottish referendum the year before, or the discussion about Catalan independence here in Barcelona) is that both sides produce all sorts of numbers to argue their case, and it is utterly impossible for the layman to know what to believe. There is endless discussion and debates about various “facts”, most of it entirely unprovable. For the record, I do believe leaving the EU would be bad for the UK economically.&lt;/p&gt;
+
+&lt;p&gt;For me though, the date of the announcement of the referendum served as a great reminder of why we need the EU and why you should vote to stay in. February 23, 2016 was the 100th anniversary of the start of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Battle_of_Verdun&quot;&gt;battle of Verdun&lt;/a&gt;, one of the most brutal battles in human history, with close to a million casualties. In the UK, Verdun, because the battle featured Germans versus French, is overshadowed &lt;a href=&quot;https://en.wikipedia.org/wiki/Battle_of_the_Somme&quot;&gt;by the Somme&lt;/a&gt;, as a metaphore for senseless loss of life. Historians no doubt have a many a drunked argument about which was worse, but no doubt they were all horrific, as were many, many other battles in which Europeans killed other Europeans. I spent part of my childhood in Germany, growing up not that far away, and had the chance to visit Verdun a few times. If you can you should go, there is no other way to comprehend the utter scale of it. Even today huge stretches are still fenced off as they are too full of bombs.&lt;/p&gt;
+
+&lt;center&gt;&lt;figure class=&quot;tmblr-full&quot; data-orig-height=&quot;480&quot; data-orig-width=&quot;640&quot;&gt;&lt;center&gt;&lt;img data-orig-height=&quot;480&quot; data-orig-width=&quot;640&quot; alt=&quot;image&quot; src=&quot;http://67.media.tumblr.com/0fc2ff944c2a551c3f9753aea91b0ccb/tumblr_inline_o5gydpqq8T1ravz8f_540.jpg&quot; /&gt;&lt;/center&gt;&lt;/figure&gt;&lt;/center&gt;
+&lt;p /&gt;
+
+&lt;p&gt;The cathedral like building in this picture is one of many memorials in Verdun. It is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Douaumont_Ossuary&quot;&gt;&lt;b&gt;Beinhaus von Douaumont&lt;/b&gt;&lt;/a&gt;, it contains the remains of 130,000 people. Think about that for a sec.&lt;/p&gt;
+
+&lt;p&gt;We’re very fortunate that most modern Europeans never had to live through a catastrophic war, and we forget that it used to be totally normal for there to be a massive war between European countries once a generation. Or that the country I now live in, Spain, was a dictatorship in living memory, and indeed most of eastern Europe much more recently than that.
+That is why we need the EU, and why we all need to be in it and continually working to improve it. So we don’t drift apart and fight, but rather so we work together to improve. The temptation to slide back into “us vs. them” thinking is always there - as we see most recently with Trump in the US, or many other examples. Working together is hard work. &lt;/p&gt;
+
+&lt;p&gt;Many people, especially in the UK - but by no means only there, like to criticize the EU. Fair enough, that is their right. But we also shouldn’t forget what amazing progress has been made only in the last 30 years. Not only should we not forget it, we should celebrate it wildly, especially when we look at where we were only 100 years ago. More needs to be done to make the democracy in the EU more transparent, and probably many of the current systems and ways of working will need to change. The same was the case when the US started, and indeed any participatory government is always going to be a work in progress. So let’s do that work. But let’s not drift apart.&lt;/p&gt;
+
+&lt;p&gt;If you have the chance to vote in the referendum, please vote to stay. Let’s work together to create the EU we want.&lt;/p&gt;
+
+&lt;p&gt;BTW - if you want to learn more about Verdun and WWI in general I highly recommend &lt;a href=&quot;http://www.dancarlin.com/hardcore-history-series/&quot;&gt;Dan Carlin’s Hard Core History podcasts on the topic&lt;/a&gt;. They have been a great treat for me over the last few weeks.
+Foto by &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=47593127&quot;&gt;Leon petrosyan - Own work, CC BY-SA 4.0&lt;/a&gt;. Thanks Leon!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Apr 2016 16:29:51 +0200</pubDate>
+        <link>http://yourdomain.com/post/142627086455/thoughts-on-the-uk-euro-referendum</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/142627086455/thoughts-on-the-uk-euro-referendum</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Speaking at Jornadas SIG libre</title>
+        <description>&lt;p&gt;I’m delighted to announce I’ve been invited to speak at the &lt;a href=&quot;http://www.sigte.udg.edu/jornadassiglibre/&quot;&gt;Jornadas SIG libre conference&lt;/a&gt; in Girona at the end of May. The event is the Spanish FOSS4G, the main conference about free and open source geospatial software.
+I’m starting to think about what I might have to say that would be relevant to the audience, if you have any suggestions please let me know. Right now I’m thinking I’ll primarily focus on the trends I’ve seen in running &lt;a href=&quot;http://geomobldn.org/&quot;&gt;#geomob&lt;/a&gt; over the last six years, the lessons learned in running the &lt;a href=&quot;https://geocoder.opencagedata.com/&quot;&gt;OpenCage Geocoder&lt;/a&gt;, and  thoughts on investing in geo startups like &lt;a href=&quot;http://what3words.com/&quot;&gt;What3Words&lt;/a&gt; and &lt;a href=&quot;http://www.splash-maps.com/&quot;&gt;SplashMaps&lt;/a&gt;.  
+It should be a great event, and I’m looking forward to it as I’ve never been to Girona which everyone says is great. The language of the conference is Spanish, but I think to make any sort of meaningful presentation my talk will have to be in English.
+Final thing: if geo events are your thing &lt;a href=&quot;http://geomobldn.org/post/139352132255/see-you-on-the-15th-of-march&quot;&gt;the next #geomob is on 15th of March&lt;/a&gt;, come along if you’re in London.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Feb 2016 11:55:45 +0100</pubDate>
+        <link>http://yourdomain.com/post/139962599485/speaking-at-jornadas-sig-libre</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/139962599485/speaking-at-jornadas-sig-libre</guid>
+        
+        
+        <category>jornadasSIGlibre,</category>
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Joining the board of MyBuilder</title>
+        <description>&lt;p&gt;Over the last months many people have gotten in touch asking what I’m up to professionally since leaving Lokku. I’m exploring a number of different things, one that I’m pleased to now be able to announce is joining the board of &lt;a href=&quot;https://www.mybuilder.com/&quot;&gt;MyBuilder&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;&lt;figure data-orig-width=&quot;1135&quot; data-orig-height=&quot;733&quot; class=&quot;tmblr-full&quot;&gt;&lt;center&gt;&lt;img data-orig-width=&quot;1135&quot; data-orig-height=&quot;733&quot; src=&quot;http://66.media.tumblr.com/81724192c65f4c84c4ace9551fa2c9d9/tumblr_inline_o304zv4FcS1ravz8f_540.png&quot; /&gt;&lt;/center&gt;&lt;/figure&gt;&lt;/center&gt;
+&lt;p /&gt;
+
+&lt;p&gt;For those unfamiliar with the service, MyBuilder is a UK based marketplace where homeowners can find quality tradesmen. Whether you need a plumber, want to redo the kitchen, put solar panels on the roof, or whatever, MyBuilder helps you quickly and easily find and compare reputable tradesmen to get the job done. 
+I’ve known the MyBuilder team for many years, in some ways the story is not unlike my own - an American founder who came to the UK and started a company around 2005. They are based in Clerkenwell, just as we were. 
+Like our own journey with Lokku, it has been one of perseverance. Ryan Notz, the CEO and founder, and his team have tenaciously grown the business over the years. One thing that has really impressed me, and the reason I decided to get involved, is that they are focused on truly helping the homeowner solve the problem of repairing their home. What I mean is, many players in this space just flog leads out to anyone with an email address who is willing to buy them. MyBuilder takes a much deeper, more comprehensive approach. First, tradesmen who want to join the marketplace undergo an identity check AND a thorough test of their skills for the specific category they are interested in. They can not just say “I’m happy to do plumbing, wiring, masonry, gas fitting, really whatever anyone will pay me to do”. Secondly, the job is not simply spammed out to any and every tradesmen. If you want your kitchen redone that’s a big task with lots of decision to be made, the last thing you want to do is to first have to sift through hundreds of possible tradesmen. Instead, what you want is a short list of a handful of reputable, qualified, and available contractors, and that is exactly what MyBuilder provides. As you would expect, you can see reviews and ratings of their past work. It’s an approach that helps the homeowner solve the real task, not just a quick way to sell a lead, which is what many of MyBuilder’s competitors (who have come and gone over the years) have done. 
+Equally important to Ryan and the management team though is creating a great culture within the team. &lt;a href=&quot;http://careers.mybuilder.com/&quot;&gt;They are hiring for a bunch of roles&lt;/a&gt;. If you want to work with great people building a great service, one that helps thousands of consumers and tradesmen every month, I can not think of a better company for you to join. The spirit of pride in the service is noticeable in everyone you talk with, and just like the tradesmen they aim to serve, there is a great sense of craftsmanship in the product side of the business. If you are interested in a product or tech role, have a look at &lt;a href=&quot;http://tech.mybuilder.com/&quot;&gt;their tech blog&lt;/a&gt; or the &lt;a href=&quot;https://github.com/mybuilder/&quot;&gt;code they have open-sourced&lt;/a&gt;. 
+This thoughtful approach is not always quick, but it is solid and it is paying off. The business is thriving. 2015 was a record year, and 2016 should be even better. More and more tradesmen are signing up, and the percentage of jobs posted by repeat users of the service is quite simply amazing. 
+All of that isn’t to say there are not challenges ahead for MyBuilder. The path from start-up to scale-up, from 5 team members to 50+, and then 200+, is not a simple one. Likewise, providing a high quality service raises customer expectations, and those expectations need to be continually met and exceeded. As MyBuilder moves out of the start-up phase of life and increasingly becomes a household name, I’m hopeful my own experiences and perspective can help on their journey. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Feb 2016 15:19:21 +0100</pubDate>
+        <link>http://yourdomain.com/post/139847718265/joining-the-board-of-mybuilder</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/139847718265/joining-the-board-of-mybuilder</guid>
+        
+        
+        <category>mybuilder</category>
+        
+      </item>
+    
+      <item>
+        <title>co-working life</title>
+        <description>&lt;center&gt;&lt;figure data-orig-width=&quot;720&quot; data-orig-height=&quot;960&quot; class=&quot;tmblr-full&quot;&gt;&lt;center&gt;&lt;img data-orig-width=&quot;720&quot; data-orig-height=&quot;960&quot; src=&quot;http://65.media.tumblr.com/c9012a9d703839297a16023a978c66ce/tumblr_inline_o2tabv2iEj1ravz8f_540.jpg&quot; /&gt;&lt;/center&gt;&lt;/figure&gt;&lt;/center&gt;
+&lt;p /&gt;
+
+&lt;p&gt;A friend was kind enough to invite me along to visit &lt;a href=&quot;http://www.betahaus.es/&quot;&gt;Betahaus Barcelona&lt;/a&gt; for a day this week. Unbeknownst to me they snapped this pic of me hard at work and are now using it on their FB feed. Might this be the big break that finally lands me in the pages of Monocle?&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Feb 2016 22:34:00 +0100</pubDate>
+        <link>http://yourdomain.com/post/139617318635/co-working-life</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/139617318635/co-working-life</guid>
+        
+        
+        <category>betahaus,</category>
+        
+        <category>workinghardorhardlyworking</category>
+        
+      </item>
+    
+      <item>
+        <title>Steady progress on mapping the new neighborhood</title>
+        <description>&lt;p&gt;One of &lt;a href=&quot;http://www.freyfogle.com/post/138272982085/goals-for-2016&quot;&gt;my goals for 2016&lt;/a&gt; was to map the new neighbourhood as a way to get to know what is where. I’m making slow but steady progress, and it’s been a good refresh. Years of living in central London, which is mapped in amazing detail, made it hard to find new things to map.&lt;/p&gt;
+
+&lt;center&gt;&lt;figure data-orig-width=&quot;1670&quot; data-orig-height=&quot;1038&quot; class=&quot;tmblr-full&quot;&gt;&lt;center&gt;&lt;img data-orig-width=&quot;1670&quot; data-orig-height=&quot;1038&quot; src=&quot;http://66.media.tumblr.com/1c913d5007425c558c81a603703fe2a3/tumblr_inline_o2ow8rNF2Y1ravz8f_540.png&quot; /&gt;&lt;/center&gt;&lt;/figure&gt;&lt;/center&gt;
+&lt;p /&gt;
+
+&lt;p&gt;I’ve been focusing on addresses mainly, though have also found and corrected several bad roads, missing names of parks, etc. My technique has mainly been pen and paper and then edit on the desktop, though in the last few days I’ve been experimenting with using &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Go_Map!!&quot;&gt;the Go Map!! app&lt;/a&gt; on my iphone. It’s ok for adding addresses, though the limited screen space makes it hard to do much more. A very challenging usability problem.&lt;/p&gt;
+
+&lt;p&gt;Anyway I should have the addresses for my main radius of action done in a few weeks, and am debating what to then focus on. It’s been a fun experiment and helped me learn the new neighbourhood. I recommend it if you move somewhere new.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Feb 2016 13:43:16 +0100</pubDate>
+        <link>http://yourdomain.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/139479274255/steady-progress-on-mapping-the-new-neighborhood</guid>
+        
+        
+        <category>openstreetmap</category>
+        
+      </item>
+    
+      <item>
+        <title>Interviewed by Geospatial Training Español</title>
+        <description>&lt;p&gt;It was my pleasure to recently do &lt;a href=&quot;http://geospatialtraininges.com/2016/02/08/opencagegeocoder-un-geocodificador-sencillo-practico-y-economico/&quot;&gt;an interview with the Geospatial Training Services Español blog&lt;/a&gt;, which is widely read in the Spanish geo industry. I talk a bit about what we are up to with the &lt;a href=&quot;https://geocoder.opencagedata.com/&quot;&gt;OpenCage geocoder&lt;/a&gt; and my impressions of Barcelona.&lt;/p&gt;
+
+&lt;p&gt;Sadly, I can’t claim that I was able to do the interview in Spanish. Quizás el próximo año?&lt;/p&gt;
+
+&lt;p&gt;Many thanks to &lt;a href=&quot;https://twitter.com/asantosestevez&quot;&gt;Alberto Santos&lt;/a&gt; for the opportunity.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 09 Feb 2016 11:13:35 +0100</pubDate>
+        <link>http://yourdomain.com/post/138980702260/interviewed-by-geospatial-training-español</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/138980702260/interviewed-by-geospatial-training-español</guid>
+        
+        
+        <category>interview</category>
+        
+      </item>
+    
+      <item>
+        <title>Podcasts</title>
+        <description>&lt;p&gt;Like many people over the last year I have gotten much more into podcasts. Actually I’ve mulled whether I should do an update to my “&lt;a href=&quot;http://www.freyfogle.com/post/94379852540/what-i-read&quot;&gt;what I read&lt;/a&gt;“ post from a few years back, as I’ve found my media consumption has changed a great deal. Bizzarely, the “old” technologies of podcasts and newsletters now feature heavily.
+Unfortunately I’m struggling to find compelling podcast content in German though. I want non-tech stuff, ideally history or entertaining non-fiction. The various podcast directories are universally terrible adsense little different from adsense spam sites. Wer kann mir da was vorschlagen?&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Feb 2016 13:39:47 +0100</pubDate>
+        <link>http://yourdomain.com/post/138920126695/podcasts</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/138920126695/podcasts</guid>
+        
+        
+        <category>podcasts</category>
+        
+      </item>
+    
+      <item>
+        <title>Goals for 2016</title>
+        <description>&lt;p&gt;After a very long hiatus, I am back on the blog. &lt;a href=&quot;http://www.freyfogle.com/post/132872030130/were-moving&quot;&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.freyfogle.com/post/132872030130/were-moving&quot;&gt;We’ve moved to Sarrià&lt;/a&gt;, and getting internet set up at home was a bit of a disaster, in total the process took about two months. From early January when we actually moved my only means of getting online has been my phone. It was an interesting experiment and the conclusion is clear: I am definitely not ready for a mobile only future. Mobile is great for consuming content, terrible for creating it.&lt;/p&gt;
+
+&lt;p&gt;The move meant I unfortunately delayed my annual (well last two years at least) tradition of posting my new year’s goals, (see &lt;a href=&quot;http://www.freyfogle.com/post/107839352080/goals-for-2015&quot;&gt;2015&lt;/a&gt; and &lt;a href=&quot;http://www.freyfogle.com/post/73132172349/goals-for-2014&quot;&gt;2014&lt;/a&gt;). 2015 has been a wild year with &lt;a href=&quot;http://www.freyfogle.com/post/130580147055/my-last-day-at-lokku&quot;&gt;selling Lokku&lt;/a&gt; and moving to Barcelona, then moving to the other side of Barcelona. Lots of change, which on the whole was very healthy but also at times very challenging.&lt;/p&gt;
+
+&lt;p&gt;So let’s dive in to the targets for 2016, in no particular order:
+1. &lt;b&gt;Continue getting back into great shape.&lt;/b&gt; I’ve made some progress on this last year, but not nearly as much as I would have hoped given how much “free” time I have. The autumn felt like an endless blur of illness as both kids acted as germ magnets. Finally we’re all healthy and now much more discipline is called for. Last week I found a good enough gym here in the new neighborhood and have been diligent about going. One disappointment of Barcelona is that while the weather is great and it is easy to be outside in general, it is very urban. In many ways it feels more urban than London. So yes, you can go to the beach or the mountains, but it is an effort, it is not just step out the front door and go for a run. Also the air pollution feels much, much worse. A good example, is the running course the city put next to Diagonal, a six lane road crossing town. I appreciate the sentiment, and there are people who use it, but it’s not for me. Anyway, with my 40th birthday rapidly approaching, #operationpeakfitness is back on. 
+2. &lt;b&gt;Get my financial situation in order.&lt;/b&gt; With the sale of Lokku, 2015 was the best financial year of my career to date. Moving to Spain though unfortunately adds yet another tax wrinkle to my life, and indeed far, far too much time was wasted over the last few months getting officially registered in Spain. Why make anything easy when it can be complicated seems to be the motto here. Anyway, I am now juggling four different tax jurisdictions which is not fun. So I need to get all that sorted out and do some long term financial planning.&lt;/p&gt;
+
+&lt;p&gt;A good guide in this regard has been my friend and ex-colleague Albert Warnecke’s great blog &lt;a href=&quot;http://www.finanzwesir.com/&quot;&gt;Finanzwesir&lt;/a&gt;. Albert asked me to write a blog post for him re: angel investing a long while back, and that too is on the todo list. Sorry for the delay Albert. Relatedly, I’m now juggling 10 angel investments, some of which are dying, others of which are thriving beyond all expectations. Helping all these business has taken up a lot of time the last few months, I am hopeful 2016 might see one or two actually return some, perhaps even tidy, profits. And there may be some more investments in the future. Let’s see.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Improve my Spanish&lt;/b&gt;. Since moving to Barcelona I’ve been working on my Spanish. I would not say it is going well, mainly because I’m not really forced to interact with people in Spanish. I’ve made some good progress, I can solve the little errands of life and my reading comprehension has improved. My terrible hearing though has made verbal comprehension very difficult though. As far as I can tell, Spanish is a mumbled language. Add to that the fact that there are many different dialects and many people are speaking the acoustically very similar Catalan, and the end result is I am struggling. Would love to make good progress on this in 2016, and just this week I cranked up my daily target on Duolingo to “insane” level. I can verify, it is hard. Currently duolingo claims I am 11% fluent. I am not sure whether to find this encouraging or discouraging. Anyway, &lt;a href=&quot;https://www.duolingo.com/edfreyfogle&quot;&gt;feel free to follow my progress&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Figure out what’s next professionally&lt;/b&gt;. A topic too big to go into in detail here, will need to do a full post on. Basically though by the end of 2016 I’d like to define a plan for what’s next.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Record my reading&lt;/b&gt;. Around new year’s I saw several people I follow blog their reading list for the past year, &lt;a href=&quot;http://christinacacioppo.com/blog/2015-books&quot;&gt;Here’s a good example&lt;/a&gt;. It was very interesting, in the same way that when you browse someone’s bookshelf when you visit their house. I’ll do the same this year. By far the best discovery of last year for me was Amitav Ghosh’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ibis_trilogy&quot;&gt;Ibis Trilogy&lt;/a&gt;, and I am now working my way through some of his earlier books. &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Have a great summer&lt;/b&gt;. In 2014 we managed to &lt;a href=&quot;http://www.freyfogle.com/post/96569192005/berlin-and-bestsummerever&quot;&gt;spend two months in Berlin during the summer&lt;/a&gt; and it was fantastic. 2015 was filled with moving to and exploring Barcelona. Here in Barcelona during the summer everything closes down for about 6 weeks so really there is no excuse for not doing something similar. Not sure if it will be Berlin again or somewhere new. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Related to number 6 and 1, and a perennial todo list entry - &lt;b&gt;spend more time outside in nature&lt;/b&gt;. Finally the kids are getting old enough to go do things like hiking, and it seems there are tons of great places in Catalonia, so need to dive into exploring more. &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Teach my son (5) to read and my daughter (2) to speak&lt;/b&gt;. The best (and sometimes &lt;strike&gt;worst&lt;/strike&gt; most challenging) consequence of the move is my wife has been very busy with her new job, which means I spend a lot more time with the kids, and it is amazing watching them learn and understand the world.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;More building and doing&lt;/b&gt;. The last few months have been about moving, getting settled, etc. Now it’s time to find some projects to dive into to learn new things. I’m toying with &lt;a href=&quot;https://perl6.org/&quot;&gt;learning perl6&lt;/a&gt; as an example, or perhaps writing a slackbot (or both). Unless you keep learning you stagnate. Send me your suggestions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Map the neighborhood.&lt;/b&gt; As a way to get to know the new barrio I’ve been adding stores and addresses to OpenStreetMap as I walk around. &lt;a href=&quot;http://www.openstreetmap.org/#map=17/41.40036/2.13125&quot;&gt;The goal is to fill it in over the year.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This post is getting frighteningly long, so I think I’ll end it there. Not sure whether to write about how the 2015 goals went, or if that sort of backwards navel gazing is exactly what i want to avoid in 2016.&lt;/p&gt;
+
+&lt;p&gt;Anyway, &lt;a href=&quot;https://twitter.com/freyfogle&quot;&gt;ping me&lt;/a&gt; if you have thoughts on or suggestions regarding any of the above. Meanwhile, I’m off to the gym.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jan 2016 12:55:13 +0100</pubDate>
+        <link>http://yourdomain.com/post/138272982085/goals-for-2016</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/138272982085/goals-for-2016</guid>
+        
         
       </item>
     
