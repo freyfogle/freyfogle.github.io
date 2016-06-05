@@ -38,6 +38,8 @@ So, enough with the endless thank you lists, lots of people have asked what I’
 
 I close with a photo of me (younger, innocent, not yet broken by the horror of real estate data) on the first day in our first office back in 2006. 
 
-<center><figure class="tmblr-full" data-orig-height="375" data-orig-width="500"><center><img data-orig-height="375" data-orig-width="500" alt="image" src="http://67.media.tumblr.com/e2360628fa54b45cbff09f7ba0cc33f7/tumblr_inline_nvrq0uppMu1ravz8f_540.jpg"/></center></figure></center><p/>
+<center><figure class="tmblr-full" data-orig-height="375" data-orig-width="500"><center><img data-orig-height="375" data-orig-width="500" alt="image" src="http://67.media.tumblr.com/e2360628fa54b45cbff09f7ba0cc33f7/tumblr_inline_nvrq0uppMu1ravz8f_540.jpg"/></center></figure></center>
+
 measure twice, cut once,
+<p/>
 <a href="https://twitter.com/freyfogle">Ed</a>
