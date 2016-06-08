@@ -6,9 +6,39 @@
 </description>
     <link>http://freyfogle.com/</link>
     <atom:link href="http://freyfogle.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jun 2016 11:31:06 +0200</pubDate>
-    <lastBuildDate>Mon, 06 Jun 2016 11:31:06 +0200</lastBuildDate>
+    <pubDate>Wed, 08 Jun 2016 13:44:49 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jun 2016 13:44:49 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>It is done, the blog is moved</title>
+        <description>&lt;p&gt;After much procrastination I’ve finally moved the blog off of tumblr. I’m
+now &lt;a href=&quot;https://jekyllrb.com/docs/github-pages/&quot;&gt;making the site with jekyll and hosting on github pages&lt;/a&gt;. I’m liking it much more, and used it as a chance to finally
+make a very simple “about me” page which you can now find on &lt;a href=&quot;http://www.freyfogle.com&quot;&gt;freyfogle.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is oddly conceptually similar to the “jake” system we built at yahoo
+about 15 years ago, so I feel right at home. Free hosting from github is ace.
+The biggest difficulty was importing all the old posts from tumblr.
+There is a migration tool, but I found it didn’t work, I think the underlying
+format of tumblr’s API has changed. Anyway, I had to write my own little adhoc
+tool which was easy enough.&lt;/p&gt;
+
+&lt;p&gt;My biggest regret is not having made this move much sooner. Next up is to move
+the &lt;a href=&quot;http://geomobldn.org&quot;&gt;#geomob&lt;/a&gt; blog off of tumblr and make that look a
+bit less adhoc.&lt;/p&gt;
+
+&lt;p&gt;Anyway the path is now cleared for a onslaught of blogging. There is much
+to tell as a few new projects are brewing.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Jun 2016 12:07:36 +0200</pubDate>
+        <link>http://freyfogle.com/post/1465380424/it-is-done</link>
+        <guid isPermaLink="true">http://freyfogle.com/post/1465380424/it-is-done</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>My Jornadas SIG Libre #siglibre10 talk</title>
@@ -200,53 +230,6 @@ Unfortunately I’m struggling to find compelling podcast content in German thou
         
         
         <category>podcasts</category>
-        
-      </item>
-    
-      <item>
-        <title>Goals for 2016</title>
-        <description>&lt;p&gt;After a very long hiatus, I am back on the blog. &lt;a href=&quot;http://www.freyfogle.com/post/132872030130/were-moving&quot;&gt;
-&lt;/a&gt;
-&lt;a href=&quot;http://www.freyfogle.com/post/132872030130/were-moving&quot;&gt;We’ve moved to Sarrià&lt;/a&gt;, and getting internet set up at home was a bit of a disaster, in total the process took about two months. From early January when we actually moved my only means of getting online has been my phone. It was an interesting experiment and the conclusion is clear: I am definitely not ready for a mobile only future. Mobile is great for consuming content, terrible for creating it.&lt;/p&gt;
-
-&lt;p&gt;The move meant I unfortunately delayed my annual (well last two years at least) tradition of posting my new year’s goals, (see &lt;a href=&quot;http://www.freyfogle.com/post/107839352080/goals-for-2015&quot;&gt;2015&lt;/a&gt; and &lt;a href=&quot;http://www.freyfogle.com/post/73132172349/goals-for-2014&quot;&gt;2014&lt;/a&gt;). 2015 has been a wild year with &lt;a href=&quot;http://www.freyfogle.com/post/130580147055/my-last-day-at-lokku&quot;&gt;selling Lokku&lt;/a&gt; and moving to Barcelona, then moving to the other side of Barcelona. Lots of change, which on the whole was very healthy but also at times very challenging.&lt;/p&gt;
-
-&lt;p&gt;So let’s dive in to the targets for 2016, in no particular order:
-1. &lt;b&gt;Continue getting back into great shape.&lt;/b&gt; I’ve made some progress on this last year, but not nearly as much as I would have hoped given how much “free” time I have. The autumn felt like an endless blur of illness as both kids acted as germ magnets. Finally we’re all healthy and now much more discipline is called for. Last week I found a good enough gym here in the new neighborhood and have been diligent about going. One disappointment of Barcelona is that while the weather is great and it is easy to be outside in general, it is very urban. In many ways it feels more urban than London. So yes, you can go to the beach or the mountains, but it is an effort, it is not just step out the front door and go for a run. Also the air pollution feels much, much worse. A good example, is the running course the city put next to Diagonal, a six lane road crossing town. I appreciate the sentiment, and there are people who use it, but it’s not for me. Anyway, with my 40th birthday rapidly approaching, #operationpeakfitness is back on. 
-2. &lt;b&gt;Get my financial situation in order.&lt;/b&gt; With the sale of Lokku, 2015 was the best financial year of my career to date. Moving to Spain though unfortunately adds yet another tax wrinkle to my life, and indeed far, far too much time was wasted over the last few months getting officially registered in Spain. Why make anything easy when it can be complicated seems to be the motto here. Anyway, I am now juggling four different tax jurisdictions which is not fun. So I need to get all that sorted out and do some long term financial planning.&lt;/p&gt;
-
-&lt;p&gt;A good guide in this regard has been my friend and ex-colleague Albert Warnecke’s great blog &lt;a href=&quot;http://www.finanzwesir.com/&quot;&gt;Finanzwesir&lt;/a&gt;. Albert asked me to write a blog post for him re: angel investing a long while back, and that too is on the todo list. Sorry for the delay Albert. Relatedly, I’m now juggling 10 angel investments, some of which are dying, others of which are thriving beyond all expectations. Helping all these business has taken up a lot of time the last few months, I am hopeful 2016 might see one or two actually return some, perhaps even tidy, profits. And there may be some more investments in the future. Let’s see.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Improve my Spanish&lt;/b&gt;. Since moving to Barcelona I’ve been working on my Spanish. I would not say it is going well, mainly because I’m not really forced to interact with people in Spanish. I’ve made some good progress, I can solve the little errands of life and my reading comprehension has improved. My terrible hearing though has made verbal comprehension very difficult though. As far as I can tell, Spanish is a mumbled language. Add to that the fact that there are many different dialects and many people are speaking the acoustically very similar Catalan, and the end result is I am struggling. Would love to make good progress on this in 2016, and just this week I cranked up my daily target on Duolingo to “insane” level. I can verify, it is hard. Currently duolingo claims I am 11% fluent. I am not sure whether to find this encouraging or discouraging. Anyway, &lt;a href=&quot;https://www.duolingo.com/edfreyfogle&quot;&gt;feel free to follow my progress&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Figure out what’s next professionally&lt;/b&gt;. A topic too big to go into in detail here, will need to do a full post on. Basically though by the end of 2016 I’d like to define a plan for what’s next.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Record my reading&lt;/b&gt;. Around new year’s I saw several people I follow blog their reading list for the past year, &lt;a href=&quot;http://christinacacioppo.com/blog/2015-books&quot;&gt;Here’s a good example&lt;/a&gt;. It was very interesting, in the same way that when you browse someone’s bookshelf when you visit their house. I’ll do the same this year. By far the best discovery of last year for me was Amitav Ghosh’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ibis_trilogy&quot;&gt;Ibis Trilogy&lt;/a&gt;, and I am now working my way through some of his earlier books. &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Have a great summer&lt;/b&gt;. In 2014 we managed to &lt;a href=&quot;http://www.freyfogle.com/post/96569192005/berlin-and-bestsummerever&quot;&gt;spend two months in Berlin during the summer&lt;/a&gt; and it was fantastic. 2015 was filled with moving to and exploring Barcelona. Here in Barcelona during the summer everything closes down for about 6 weeks so really there is no excuse for not doing something similar. Not sure if it will be Berlin again or somewhere new. &lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Related to number 6 and 1, and a perennial todo list entry - &lt;b&gt;spend more time outside in nature&lt;/b&gt;. Finally the kids are getting old enough to go do things like hiking, and it seems there are tons of great places in Catalonia, so need to dive into exploring more. &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Teach my son (5) to read and my daughter (2) to speak&lt;/b&gt;. The best (and sometimes &lt;strike&gt;worst&lt;/strike&gt; most challenging) consequence of the move is my wife has been very busy with her new job, which means I spend a lot more time with the kids, and it is amazing watching them learn and understand the world.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;More building and doing&lt;/b&gt;. The last few months have been about moving, getting settled, etc. Now it’s time to find some projects to dive into to learn new things. I’m toying with &lt;a href=&quot;https://perl6.org/&quot;&gt;learning perl6&lt;/a&gt; as an example, or perhaps writing a slackbot (or both). Unless you keep learning you stagnate. Send me your suggestions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Map the neighborhood.&lt;/b&gt; As a way to get to know the new barrio I’ve been adding stores and addresses to OpenStreetMap as I walk around. &lt;a href=&quot;http://www.openstreetmap.org/#map=17/41.40036/2.13125&quot;&gt;The goal is to fill it in over the year.&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This post is getting frighteningly long, so I think I’ll end it there. Not sure whether to write about how the 2015 goals went, or if that sort of backwards navel gazing is exactly what i want to avoid in 2016.&lt;/p&gt;
-
-&lt;p&gt;Anyway, &lt;a href=&quot;https://twitter.com/freyfogle&quot;&gt;ping me&lt;/a&gt; if you have thoughts on or suggestions regarding any of the above. Meanwhile, I’m off to the gym.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 29 Jan 2016 12:55:13 +0100</pubDate>
-        <link>http://freyfogle.com/post/138272982085/goals-for-2016</link>
-        <guid isPermaLink="true">http://freyfogle.com/post/138272982085/goals-for-2016</guid>
-        
         
       </item>
     
