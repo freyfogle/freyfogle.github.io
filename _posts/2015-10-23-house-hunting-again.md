@@ -13,6 +13,5 @@ I will be very sad to leave Poblenou, and we’ve found through talking with man
 
 The two bits of good news about the move are we will be closer to the forest and nature and should have a much nicer view looking down over the city.  
 
-<center><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><center><img data-orig-width="1024" data-orig-height="768" src="http://66.media.tumblr.com/efa71bba088129e9b4f050214043cf44/tumblr_inline_nwo71ogFXw1ravz8f_540.jpg"/></center></figure></center><p/>
+<center><figure data-orig-width="1024" data-orig-height="768" class="tmblr-full"><center><img data-orig-width="1024" data-orig-height="768" src="/img/blog/540.jpg"/></center></figure></center><p/>
 If you have any leads please send them my way. I’m not expecting a lot from this post, but figured there was no reason not to try.
-

@@ -17,7 +17,7 @@ During that trip we discovered some old family trees of my grandmother and grand
 
 In more family news, my 14 month old daughter can now walk and climb, and is officially the cutest kid EVER. also of course we celebrated Christmas, which is great with a four year old, as per this foto:
 
-<center><img alt="image" src="http://66.media.tumblr.com/036f037c332aa91027ee6136e1b9479f/tumblr_inline_nhoexdCLo31ravz8f.jpg"/></center>
+<center><img alt="image" src="/img/blog/nhoexdCLo31ravz8f.jpg"/></center>
 
 
 
@@ -39,5 +39,3 @@ In more work/financial focused news, lots happened:
 </ul>
 more soon,
 Ed
-
-

@@ -23,11 +23,7 @@ Besides this effort from Steve, I&rsquo;m also aware of <a href="http://www.spl
 I&rsquo;d love to connect with, partner with, and possibly invest in anyone who working in this space.
 
 
-<center><img alt="image" src="http://66.media.tumblr.com/85679e2a9824b9d14801c7c0eac46727/tumblr_inline_mic24pDo3F1qz4rgp.jpg"/></center>
+<center><img alt="image" src="/img/blog/mic24pDo3F1qz4rgp.jpg"/></center>
 
 
 Photo from Steve&rsquo;s Kickstarter page.
-
-
-
-

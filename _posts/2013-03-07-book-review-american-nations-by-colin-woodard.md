@@ -11,7 +11,7 @@ Over the last week I&rsquo;ve read Colin Woodard&rsquo;s &ldquo;American Nations
 I&rsquo;ve lived outside of the US for 15 of the last 20 years, but I grew up all over the US (North and South Carolina, Texas, Oklahoma, New Jersey, Illinois), I can definitely confirm that there are deep differences across the regions (a few years back my wife and I went to the San Luis valley in southern Colorado which was absolutely mind blowing in terms of cultural difference - it was like a time machine to the days of the Spanish conquistadors). 
 
 
-<center><img src="http://66.media.tumblr.com/8c1c28d2e04921a01c9d75ae090e37f0/tumblr_inline_mjaddljoL31qz4rgp.jpg"/></center>
+<center><img src="/img/blog/mjaddljoL31qz4rgp.jpg"/></center>
 
 
 

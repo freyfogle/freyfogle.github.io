@@ -7,7 +7,7 @@ categories: "events, speaking, jornadasSIGlibre, siglibre10"
 ---
 Today I’m in Girona speaking at the 10th <a href="http://www.sigte.udg.edu/jornadassiglibre/">Jornadas SIG Libre</a>, the main geo free and opensource software event in Spain. Many thanks to the organizers for putting together the event and allowing me to speak.
 It was my first time to Girona, which is shameful given how close it is to Barcelona (40min by high speed train), and the city is beautiful. Likewise the university, and in fact the conference was held in an old monestary. Here’s a great shot of me by twitter user <a href="https://twitter.com/inspide_me/status/735037022230982656">@inspide_me</a> speaking in this amazing venue.
-<center><figure data-orig-width="600" data-orig-height="1067" class="tmblr-full"><center><img data-orig-width="600" data-orig-height="1067" src="http://65.media.tumblr.com/10bb043e2463d46e238a3af4a83b45b3/tumblr_inline_o7ofe1weJk1ravz8f_540.jpg"/></center></figure></center><p/>
+<center><figure data-orig-width="600" data-orig-height="1067" class="tmblr-full"><center><img data-orig-width="600" data-orig-height="1067" src="/img/blog/540.jpg"/></center></figure></center><p/>
 My talk focused on some of the trends I’ve seen in running <a href="http://geomobldn.org/">#geomob</a> over the last years. The obvious point is that with the rise of smart phones geo and location based services have now become the norm in everyone’s life - rich and poor, young and old. As a consequence, the key differentiatior of success and failure is increasingly NOT technical perfection and feature completeness, but rather usability. Simple wins, a lesson it is often easy for developers to forget. 
 
 My talk is below, let me know what you think.

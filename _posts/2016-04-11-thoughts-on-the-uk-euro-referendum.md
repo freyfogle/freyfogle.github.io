@@ -11,7 +11,7 @@ One of the frustrations with the discussion around a big decision like the refer
 
 For me though, the date of the announcement of the referendum served as a great reminder of why we need the EU and why you should vote to stay in. February 23, 2016 was the 100th anniversary of the start of the <a href="https://en.wikipedia.org/wiki/Battle_of_Verdun">battle of Verdun</a>, one of the most brutal battles in human history, with close to a million casualties. In the UK, Verdun, because the battle featured Germans versus French, is overshadowed <a href="https://en.wikipedia.org/wiki/Battle_of_the_Somme">by the Somme</a>, as a metaphore for senseless loss of life. Historians no doubt have a many a drunked argument about which was worse, but no doubt they were all horrific, as were many, many other battles in which Europeans killed other Europeans. I spent part of my childhood in Germany, growing up not that far away, and had the chance to visit Verdun a few times. If you can you should go, there is no other way to comprehend the utter scale of it. Even today huge stretches are still fenced off as they are too full of bombs. 
 
-<center><figure class="tmblr-full" data-orig-height="480" data-orig-width="640"><center><img data-orig-height="480" data-orig-width="640" alt="image" src="http://67.media.tumblr.com/0fc2ff944c2a551c3f9753aea91b0ccb/tumblr_inline_o5gydpqq8T1ravz8f_540.jpg"/></center></figure></center><p/>
+<center><figure class="tmblr-full" data-orig-height="480" data-orig-width="640"><center><img data-orig-height="480" data-orig-width="640" alt="image" src="/img/blog/540.jpg"/></center></figure></center><p/>
 The cathedral like building in this picture is one of many memorials in Verdun. It is the <a href="https://en.wikipedia.org/wiki/Douaumont_Ossuary"><b>Beinhaus von Douaumont</b></a>, it contains the remains of 130,000 people. Think about that for a sec.
 
 We’re very fortunate that most modern Europeans never had to live through a catastrophic war, and we forget that it used to be totally normal for there to be a massive war between European countries once a generation. Or that the country I now live in, Spain, was a dictatorship in living memory, and indeed most of eastern Europe much more recently than that.
@@ -23,4 +23,3 @@ If you have the chance to vote in the referendum, please vote to stay. Let’s w
 
 BTW - if you want to learn more about Verdun and WWI in general I highly recommend <a href="http://www.dancarlin.com/hardcore-history-series/">Dan Carlin’s Hard Core History podcasts on the topic</a>. They have been a great treat for me over the last few weeks.
 Foto by <a href="https://commons.wikimedia.org/w/index.php?curid=47593127">Leon petrosyan - Own work, CC BY-SA 4.0</a>. Thanks Leon! 
-

@@ -23,4 +23,4 @@ I&rsquo;m proud that my company, Lokku, is among the early members of the ODI (s
 One final note - at the end of the evening all the members were presented with a goody bag with, amongst other things, an ODI mug. In the age of the digital, don&rsquo;t underestimate the instinctive appeal of the tangible! I&rsquo;m sipping from that very mug as I draft this post.
 
 
-<center><img alt="image" src="http://66.media.tumblr.com/157bc7043faa0087737a391fd276d35d/tumblr_inline_mqnofhOwHp1qz4rgp.jpg"/></center>
+<center><img alt="image" src="/img/blog/mqnofhOwHp1qz4rgp.jpg"/></center>

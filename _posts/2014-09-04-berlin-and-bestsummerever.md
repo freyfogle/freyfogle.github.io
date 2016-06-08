@@ -15,7 +15,7 @@ The highlights of the summer:
 - Grünewald. So easy to get to. A real forest. Amazing. This is what I&rsquo;ve been wanting. So much fun with my son. Likewise swimming in Schlachtensee. So easy, so right.
 
 
-<center><img src="http://67.media.tumblr.com/986ad5662c836bfeed7b9823a818f4f6/tumblr_inline_nbcjvho8r31ravz8f.jpg"/></center>
+<center><img src="/img/blog/nbcjvho8r31ravz8f.jpg"/></center>
 
 
 
@@ -27,7 +27,7 @@ The highlights of the summer:
 - Moabit. We lucked into getting a friends flat in Moabit. I was expecting a prison surrounded by people waiting to visit their relatives in the prison. Moabit is awesome. So green, so many playgrounds. Would move there in an instant. Moabit ist die Nachbarschaft der &ldquo;Hipster-Renter, No-Logo-Jugendliche, DIY-Freaks, Boule-Dillletanten, Gechillte Mamas, Hinterhofmuckler, Kiez-Babos, uvm.&rdquo; Wer will da mehr?
 
 
-<center><img src="http://66.media.tumblr.com/440db961b8f53a2cd7637e80ce796fdf/tumblr_inline_nbcjtwt7lY1ravz8f.jpg"/></center>
+<center><img src="/img/blog/nbcjtwt7lY1ravz8f.jpg"/></center>
 
 
 
@@ -50,5 +50,3 @@ I guess an obvious question people will have is what my opinion of the tech scen
 
 
 My deep thanks to all the people who were so helpful in making this summer happen for me and my family. It was easily the best summer I&rsquo;ve had in the last decade, possibly longer. I can&rsquo;t wait for next year.
-
-

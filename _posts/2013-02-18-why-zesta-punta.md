@@ -5,7 +5,7 @@ title: "Why Zesta Punta?"
 date: "2013-02-18 1:39:0+0000"
 categories: "zestapunta, keeplearning"
 ---
-<a href="https://www.zestapunta.com/"><center><img alt="image" src="http://66.media.tumblr.com/79c1d94ad4f70b6108fd11ae5b52e562/tumblr_inline_mie20ojFfF1qz4rgp.png"/></center>
+<a href="https://www.zestapunta.com/"><center><img alt="image" src="/img/blog/mie20ojFfF1qz4rgp.png"/></center>
 </a>
 
 
@@ -31,11 +31,3 @@ Finally I should say that I&rsquo;m not the only one working on Zesta Punta, and
 
 
 If this post has whetted your appetite, please join Zesta Punta and <a href="https://www.zestapunta.com/browse/freyfogle/all/all">let me know if you want any of my stuff</a>.
-
-
-
-
-
-
-
-

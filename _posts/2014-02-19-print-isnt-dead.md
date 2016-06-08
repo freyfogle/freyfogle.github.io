@@ -11,7 +11,7 @@ Just over a year ago I blogged about <a href="http://freyfogle.tumblr.com/post/4
 Today I&rsquo;m very happy to report that my role in this debate has moved from sideline spectator to active player - we (Lokku) have invested in <a href="http://www.splashmaps.net/">SplashMaps</a>! As I go into in the <a href="http://blog.lokku.com/post/77055320403/investing-in-splashmaps">post over on the Lokku blog</a>, I&rsquo;m excited about this investment for a lot of reasons. But above all else because this is just a great product for anyone who enjoys the outdoors. Hopefully very soon, using the power of the global OSM community, the SplashMaps team will be able to launch globally.
 
 
-<a href="http://www.splashmaps.net/"><center><img src="http://66.media.tumblr.com/5dab400883591afcf5482d9958c560e7/tumblr_inline_n18v37AR031ravz8f.jpg"/></center></a>
+<a href="http://www.splashmaps.net/"><center><img src="/img/blog/n18v37AR031ravz8f.jpg"/></center></a>
 
 
 

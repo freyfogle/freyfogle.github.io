@@ -19,6 +19,5 @@ So far I’m really enjoying the linguistic diversity of Barcelona. Life in Lond
 
 Here’s a picture of a typical Barcelona ATM:
 
-<center><figure class="tmblr-full" data-orig-height="400" data-orig-width="600"><center><img data-orig-height="400" data-orig-width="600" alt="image" src="http://67.media.tumblr.com/a3ee45621a488992e66173e3af67dbdd/tumblr_inline_nrs3j3GMNz1ravz8f_540.jpg"/></center></figure></center><p/>
+<center><figure class="tmblr-full" data-orig-height="400" data-orig-width="600"><center><img data-orig-height="400" data-orig-width="600" alt="image" src="/img/blog/540.jpg"/></center></figure></center><p/>
 So let me know, should I dive into espanol o catala first?
-

@@ -5,7 +5,7 @@ title: "Details of next #geomob posted"
 date: "2013-03-01 23:26:33+0000"
 categories: "geomob"
 ---
-<a href="http://geomobldn.org/"><center><img src="http://65.media.tumblr.com/eefb126f03e1ca44cfce4d5f6895ee08/tumblr_inline_mj06anuOyF1qz4rgp.jpg"/></center></a>
+<a href="http://geomobldn.org/"><center><img src="/img/blog/mj06anuOyF1qz4rgp.jpg"/></center></a>
 
 
 
@@ -17,7 +17,3 @@ We try to get a diverse mix of speakers from big companies, start-ups, academia,
 
 Our April lineup looks very strong, I&rsquo;m especially looking forward to Phillip Ronnenberg&rsquo;s talk about <span class="name"><a href="http://www.openps.info/">OpenPositioningSystem</a>. If you&rsquo;re in London on April 25th and interested in geo please join us.
 </span>
-
-
-
-

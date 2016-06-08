@@ -44,12 +44,4 @@ One final point - please don&rsquo;t interpret this post as that we&rsquo;re onl
 I close with a picture of the Lokku team taken in late 2012. My thanks to everyone who has helped Lokku thrive over the last 7 years. 
 
 
-<center><img src="http://67.media.tumblr.com/3c0ff76ab69065f89b307226478fca56/tumblr_inline_mpz9hcpWQn1qz4rgp.jpg"/></center>
-
-
-
-
-
-
-
-
+<center><img src="/img/blog/mpz9hcpWQn1qz4rgp.jpg"/></center>

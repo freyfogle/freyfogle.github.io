@@ -18,16 +18,4 @@ What hasn&rsquo;t changed though is the need for more and better health research
 Here&rsquo;s a peek at how the map currently looks, still a long way to go. Feel free to join me.
 
 
-<a href="http://www.openstreetmap.org/#map=10/17.1874/78.5413"><center><img src="http://67.media.tumblr.com/dbfd8c31bf821f07c41dc30e5884509b/tumblr_inline_nd3cbuiLVO1ravz8f.png"/></center></a>
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="http://www.openstreetmap.org/#map=10/17.1874/78.5413"><center><img src="/img/blog/nd3cbuiLVO1ravz8f.png"/></center></a>

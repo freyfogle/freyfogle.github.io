@@ -5,7 +5,7 @@ title: "Changing the Boris Bike game"
 date: "2013-02-14 12:15:0+0000"
 categories: "borisbikes"
 ---
-<center><img alt="image" src="http://66.media.tumblr.com/f8f97455afb5ed6ad8826b9651634813/tumblr_inline_mi7ia5uCNx1qz4rgp.jpg"/></center>
+<center><img alt="image" src="/img/blog/mi7ia5uCNx1qz4rgp.jpg"/></center>
 
 
 I&rsquo;m a heavy user of London&rsquo;s Cycle Hire service (commonly referred to as &ldquo;Boris Bikes&rdquo;). Nothing beats cycling past traffic and crammed-to-the-gills buses. Subscription prices for the service recently doubled, but cycle hire is still a great financial deal. I used to spend about £30-50/month on my oyster card, now I spend that over 6 months. I love it. 

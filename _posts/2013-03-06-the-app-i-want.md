@@ -11,7 +11,7 @@ Last night I headed into Soho to meet a friend and fellow entrepreneur. He was t
 By chance I met up with them on Poland street, the street where the  first Lokku office was <a href="http://freyfogle.tumblr.com/post/43408654016/seven-years-of-nestoria">seven years ago</a>. Here&rsquo;s a picture of the building our first office was in, though it looked much worse when we were based there. No doubt the rent has been raised considerably since.
 
 
-<center><img src="http://67.media.tumblr.com/2494f01ad2096aa670f71a6f55db9175/tumblr_inline_mj8mko3Ldj1qz4rgp.png"/></center>
+<center><img src="/img/blog/mj8mko3Ldj1qz4rgp.png"/></center>
 
 
 

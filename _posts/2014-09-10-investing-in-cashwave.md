@@ -22,7 +22,7 @@ Team alone is the overwhelming reason I felt it was worth taking a chance on Cas
 
 
 <div class="adL"></div>
-<div class="adL"><span class="im"><span class="im"><center><img alt="image" src="http://67.media.tumblr.com/a7fd6e3e346599bb9d1c006089891103/tumblr_inline_nbnrhhmGlt1ravz8f.jpg"/></center></span></span>
+<div class="adL"><span class="im"><span class="im"><center><img alt="image" src="/img/blog/nbnrhhmGlt1ravz8f.jpg"/></center></span></span>
 
 
 

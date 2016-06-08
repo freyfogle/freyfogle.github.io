@@ -14,8 +14,4 @@ As <a href="http://freyfogle.tumblr.com/post/43256711297/where-is-the-openstreet
 I&rsquo;m hopeful that OSMPLUS draws a large crowd of folks asking similar questions. 
 
 
-<a href="http://osmplus.co/"><center><img src="http://65.media.tumblr.com/4e6a389cb685f269f3aa72c01999d180/tumblr_inline_mk9qpoVpD01qz4rgp.png"/></center></a>
-
-
-
-
+<a href="http://osmplus.co/"><center><img src="/img/blog/mk9qpoVpD01qz4rgp.png"/></center></a>

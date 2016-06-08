@@ -11,7 +11,7 @@ A friend of mine has launched <a href="http://wiiv.co/">Wiiv</a>, a service to m
 Anyhoo, if cloudsprawl is a problem you face they would welcome all feedback.  
 
 
-<center><img src="http://67.media.tumblr.com/22828af8af21ea7f69f282efa5dd6a12/tumblr_inline_mi9o7j47UC1qz4rgp.png"/></center>
+<center><img src="/img/blog/mi9o7j47UC1qz4rgp.png"/></center>
 
 
 
