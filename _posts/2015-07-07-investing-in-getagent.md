@@ -20,4 +20,5 @@ GetAgent focuses on the opposite side of the problem, which is why I find it com
 
 The service is still in beta, but initial response from both sellers and agents has been very positive. Still, most start-ups fail, and getting people to change their traditional behaviour is hard, particularly in real estate. It is a very emotional category. Numbers and logic are not always the key drivers of decisions, no matter how compelling the proposition, and despite being the largest financial transaction of most people’s lives. So far though the GetAgent team is working hard (and more importantly, working smart), and they are off to a strong start. I&rsquo;m delighted to be an investor.
 
+
 Learn more about <a href="https://www.getagent.co.uk/">GetAgent</a> by following them <a href="https://twitter.com/getagentuk">on twitter @GetAgentUK</a>.
