@@ -5,7 +5,7 @@ title: "Investing in GetAgent"
 date: "2015-07-07 11:59:7+0000"
 categories: "angelinvesting, getagent, supplyanddemand"
 ---
-Welcome back to the old blog. Aside from the occasional photo, it has been a  long while. Much has happened, <a href="http://tech.eu/brief/mitula-lokku-nestoria-acquisition/">we sold Lokku to Mitula</a>, and I&rsquo;ve moved to Barcelona. All of that will be covered in upcoming posts, today I want to write about a company I recently made a seed level investment in: <a href="https://www.getagent.co.uk/">GetAgent</a>.
+Welcome back to the old blog. Aside from the occasional photo, it has been a long while. Much has happened, <a href="http://tech.eu/brief/mitula-lokku-nestoria-acquisition/">we sold Lokku to Mitula</a>, and I&rsquo;ve moved to Barcelona. All of that will be covered in upcoming posts, today I want to write about a company I recently made a seed level investment in: <a href="https://www.getagent.co.uk/">GetAgent</a>.
 
 Based in London, GetAgent helps homeowners find the best estate agent for selling their homes. If you&rsquo;re thinking of selling, you should check it out, they will save you a lot of money. 
 
