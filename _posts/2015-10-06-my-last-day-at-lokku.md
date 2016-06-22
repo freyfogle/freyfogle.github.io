@@ -27,10 +27,12 @@ Next, I want to thank the investors who made the bet on us. I am proud to say th
 
 Moving on to the team, of course first and foremost I must mention my co-founder <a href="https://twitter.com/JavierEtxebeste">Javier Etxebeste</a>. It was not always easy, but at our best we were a great combination.  I learned an immense amount from Javier. Here’s a pic of us in action at one of the team events:
 
-<center><figure class="tmblr-full" data-orig-height="453" data-orig-width="604"><center><img data-orig-height="453" data-orig-width="604" alt="image" src="/img/blog/540.jpg"/></center></figure></center><p/>
+<center><img data-orig-height="453" data-orig-width="604" alt="image" src="/img/blog/ed-and-javier.jpg"/></center>
+
 Many thanks to everyone who made the bet on joining Lokku (<i>except for that one intern who just stopped showing up - no thanks to you</i>). I hope you can honestly say you were treated fairly, learned a lot, and had a share in the rewards, as that was our intention. I have many fond memories, not least of the team events, excluding of course the cold induced coma from the times we went body surfing in the Bay of Biscay in early December. 
 
-<center><figure class="tmblr-full" data-orig-height="300" data-orig-width="400"><center><img data-orig-height="300" data-orig-width="400" alt="image" src="/img/blog/540.jpg"/></center></figure></center><p/>
+<center><img data-orig-height="300" data-orig-width="400" alt="image" src="/img/blog/lokku-surfing.jpg"/></center>
+
 While it was good fun with almost all of you, there are of course a few people who really stand out. Thank you MTM, Mike, Spiros, Andy, Alex, J2, Sara, Mark, Mica, Savio, Vivek, Ruben, Vincent, and Charlotte. But even if you’re not on that list I look forward to seeing you all at future alumni events, and please don’t hesitate to ever get in touch if there is a way I can help you. It means a lot to me that you chose to join my company.  
 
 Probably the most important person to thank though is<a href="https://twitter.com/cathryn_tonne"> my wife, Cathryn,</a> who put up with the volatility of life in a start-up and all the many ups and downs,the long nights and many sessions of complaining about those dear clients I was just thanking a few short paragraphs ago. Thank you. 
@@ -38,8 +40,8 @@ So, enough with the endless thank you lists, lots of people have asked what I’
 
 I close with a photo of me (younger, innocent, not yet broken by the horror of real estate data) on the first day in our first office back in 2006. 
 
-<center><figure class="tmblr-full" data-orig-height="375" data-orig-width="500"><center><img data-orig-height="375" data-orig-width="500" alt="image" src="/img/blog/540.jpg"/></center></figure></center>
+<center><img data-orig-height="375" data-orig-width="500" alt="image" src="/img/blog/firstday-lokku.jpg"/></center>
 
 measure twice, cut once,
-<p/>
-<a href="https://twitter.com/freyfogle">Ed</a>
+
+[Ed](https://twitter.com/freyfogle)
