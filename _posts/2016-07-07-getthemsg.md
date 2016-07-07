@@ -10,7 +10,7 @@ I'm organizing **Get the Msg**, a new regular event for anyone in Barcelona
 working on digital messaging.
 
 ## Get the Msg ##
-  * 7:15, Tuesday 13th September
+  * 7:15pm, Tuesday 13th September
   * Where: Betahaus Barcelona - [Carrer de Vilafranca, 7. 08024 Barcelona](http://www.betahaus.es/contact/)
   * Event language is English
   * [Please signup](http://lanyrd.com/2016/getthemsg/). Stay informed: [@getthemsgevent](https://twitter.com/getthemsgevent)
