@@ -11,7 +11,7 @@ working on digital messaging.
 
 ## Get the Msg ##
   * 7:15pm, Tuesday 13th September
-  * Where: Betahaus Barcelona - [Carrer de Vilafranca, 7. 08024 Barcelona](http://www.betahaus.es/contact/)
+  * Where: Betahaus Barcelona - [Carrer de Vilafranca, 7, 08024 Barcelona](http://www.betahaus.es/contact/)
   * Event language is English
   * [Please signup](http://lanyrd.com/2016/getthemsg/). Stay informed: [@getthemsgevent](https://twitter.com/getthemsgevent)
 
@@ -21,17 +21,17 @@ working on digital messaging.
 
 Our speakers on the 13th of September will be
 
-  * [Kim-Fredrik Schneider](http://hubtype.com) - Founder of Abi, a medical messaging service.  
+  * [Kim-Fredrik Schneider](http://hubtype.com) - Founder of Abi, a medical messaging service  
 
   * [Mark Boyd](https://twitter.com/mgboydcom) - Research Analyst / Industry commentator at [Platformable](http://mgboyd.com)
 
-  * [Eric Marcos](https://twitter.com/ericmarcosp) - Co-founder of [Hubtype](http://hubtype.com) - a tool to unify messaging services for customer care. 
+  * [Eric Marcos](https://twitter.com/ericmarcosp) - Co-founder of [Hubtype](http://hubtype.com) - a tool to unify messaging services for customer care 
 
   * [Johan Ahlung](https://twitter.com/JohanAhlund) - Founder of
-[jabberBrain](http://www.jabberbrain.com/), makers of intelligen virtual assistants
+[jabberBrain](http://www.jabberbrain.com/), makers of intelligent virtual assistants
 
 
-each speaker will present for 10-15 minutes. Afterwards there will be drinks
+Each speaker will present for 10-15 minutes. Afterwards there will be drinks
 generously provided by our hosts [Betahaus Barcelona](http://www.betahaus.es/)
 and sponsors Estrella Damm. Many thanks to them!
 
@@ -40,15 +40,12 @@ and sponsors Estrella Damm. Many thanks to them!
 Messaging is rapidly becoming the dominant form of digital communication, and
 many people in Barcelona are doing interesting work in the space. 
 
-Our goal is to provide a regular forum for those working indigital messaging to
+Our goal is to provide a regular forum for those working in digital messaging to
 meet and share their experiences. The value of the event is as much for
-attendees to meet each other and build relationships as it is to hear the
+attendees to meet each other and build relationships as it is to hear from the
 speakers.
 
-The format of **Get the Msg** will be the same as [the #geomob events](http://geomobldn.org) I run in London: we will have
-brief (10-15 minutes) talk from four or five speakers doing something
-interesting in the field of messaging. Afterwards we'll continue the
-discussion over drinks. 
+The format of **Get the Msg** will be the same as [the #geomob events](http://geomobldn.org) I run in London: we will have brief (10-15 minutes) talk from four or five speakers doing something interesting in the field of messaging. Afterwards we'll continue the discussion over drinks. 
 
 **Who should attend?**
 
@@ -66,10 +63,7 @@ so we can have an estimate of numbers.
 
 **I can't make it on September 13th, when is the next one?**
 
-We're not sure yet, let's see how the first one goes. Ideally I'd like to do
-one event per quarter. So probably our next one will be January 2017.
-If you're interested please [follow @getthemsgevent](https://twitter.com/getthemsgevent) on twitter. If you'd like to volunteer to speak at a future event
-please get in touch.
+We're not sure yet, let's see how the first one goes. Ideally I'd like to do one event per quarter. So probably our next one will be January 2017. If you're interested please [follow @getthemsgevent](https://twitter.com/getthemsgevent) on twitter. If you'd like to volunteer to speak at a future event please get in touch.
 
 
 
