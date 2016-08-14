@@ -5,17 +5,12 @@ title: "Sommertage in Thüringen"
 date: "2016-08-14 19:50:0+0000"
 categories: "bestsummerever"
 ---
-<center>
-<img src="/img/blog/summer2016-0.jpg"/>
-<p/>
-<img src="/img/blog/summer2016-4.jpg"/>
-<p/>
-<img src="/img/blog/summer2016-1.jpg"/>
-<p/>
-<img src="/img/blog/summer2016-2.jpg"/>
-<p/>
-<img src="/img/blog/summer2016-3.jpg"/>
-<p/>
+<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-10">
+  <img src="/img/blog/summer2016-0.png"/>
+</div>
+<div class="col-md-1"></div>
+</div>
 
-</center>
 
