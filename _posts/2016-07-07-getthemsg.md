@@ -6,6 +6,15 @@ date: "2016-07-07 12:06:47+0000"
 categories: "#getthemsg, events"
 ---
 
+**Update: the event is cancelled**
+
+Bad news, at the last minute Betahaus cancelled on us, so rather than the
+speaking event we'll be having a dinner. Please get in touch if you'd like to
+attend. I nevertheless hope to go forward with Get the Msg events in the
+near future. Please follow the [@getthemsgevent](https://twitter.com/getthemsgevent) twitter account to stay informed. Thanks.
+
+---
+
 I'm organizing **Get the Msg**, a new regular event for anyone in Barcelona
 working on digital messaging.
 
