@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /post/1476864000/investing-in-avuxi
-title: "Investing in Avuxi"
+title: "Investing in AVUXI"
 date: "2016-10-19 07:36:22+0000"
 categories: "angelinvesting, avuxi, topplace, travel"
 ---
