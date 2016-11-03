@@ -30,7 +30,7 @@ working on digital messaging.
 
 Our speakers on the 13th of September will be
 
-  * [Kim-Fredrik Schneider](http://hubtype.com) - Founder of Abi, a medical messaging service  
+  * [Kim-Fredrik Schneider](https://twitter.com/thekimfredrik) - Founder of Abi, a medical messaging service  
 
   * [Mark Boyd](https://twitter.com/mgboydcom) - Research Analyst / Industry commentator at [Platformable](http://mgboyd.com)
 
