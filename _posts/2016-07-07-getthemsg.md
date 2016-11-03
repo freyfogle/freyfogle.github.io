@@ -36,7 +36,7 @@ Our speakers on the 13th of September will be
 
   * [Eric Marcos](https://twitter.com/ericmarcosp) - Co-founder of [Hubtype](http://hubtype.com) - a tool to unify messaging services for customer care 
 
-  * [Johan Ahlung](https://twitter.com/JohanAhlund) - Founder of
+  * [Johan Ahlund](https://twitter.com/JohanAhlund) - Founder of
 [jabberBrain](http://www.jabberbrain.com/), makers of intelligent virtual assistants
 
 
