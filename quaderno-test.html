@@ -38,24 +38,35 @@
         });
       
         $('.quadernoButton').on('click', function(e){
-          var plan = this.id;     
-          console.log('click '+ plan);
+          var bid = this.id;     
+          console.log('click '+ bid);
           var desc;
-          if (plan == "small"){
-              desc = "Small plan";
+          var plan = 'pl_invoice_4500_0_month_eur';
+          var amount;
+          var currency = "EUR";
+          if (bid == "small"){
+            desc = "Small plan";
+            amount = 4500;
+            // plan = '';      
           }
-          else if (plan == "medium"){
-              desc = "Medium plan";
+          else if ( bid == "medium"){
+            amount = 9000;
+            desc = "Medium plan";
+            // plan = '';      
           }
-          else if (plan == "large"){      
-              desc = "Large plan";
+          else if (bid == "large"){
+            amount = 90000;      
+            desc = "Large plan";
+            // plan = '';      
           }
           // Open Checkout with further options
           Qhandler.open({
             type: 'subscription',
-            currency: 'eur',
-            amount: 4500,
-            plan: "pl_invoice_4500_0_month_eur",
+            'transaction-type': 'eservice',
+            amount: amount,
+            gateway: 'stripe',
+            plan: plan,
+            currency: currency,      
             description: desc,
             color: "#1A8865",
             quantity: 1
