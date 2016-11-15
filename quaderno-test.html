@@ -14,11 +14,14 @@
   <body>
     <div class="container">
       <div class="button">
-        <a class="btn btn-primary btn-geocoder quadernoButton" href="">Purchase 100</a>
+        <a class="btn btn-primary btn-geocoder quadernoButton" href="" id="small">Small</a>
       </div>
       <div class="button">
-        <a class="btn btn-primary btn-geocoder quadernoButton" href="">Purchase 200</a>
+        <a class="btn btn-primary btn-geocoder quadernoButton" href="" id="medium">Medium</a>
       </div>
+      <div class="button">
+        <a class="btn btn-primary btn-geocoder quadernoButton" href="" id="large">Large</a>
+      </div>      
     </div>
     
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -35,14 +38,26 @@
         });
       
         $('.quadernoButton').on('click', function(e){
-          console.log('click');
+          var plan = this.id;     
+          console.log('click '+ plan);
+          var desc;
+          if (plan == "small"){
+              desc = "Small plan";
+          }
+          else if (plan == "medium"){
+              desc = "Medium plan";
+          }
+          else if (plan == "large"){      
+              desc = "Large plan";
+          }
           // Open Checkout with further options
           Qhandler.open({
             type: 'subscription',
             currency: 'eur',
             amount: 4500,
             plan: "pl_invoice_4500_0_month_eur",
-            description: 'Subscribe to the Awesome plan',
+            description: desc,
+            color: "#1A8865",
             quantity: 1
           });
           e.preventDefault();
