@@ -41,18 +41,20 @@
         layer = new L.TileLayer(tileUrl, {maxZoom: 18});
 
         // add the layer to the map
-      map.addLayer(layer);
+        map.addLayer(layer);
 
-      var sc = document.createElement('script');
-      sc.id = 'vxscript';
-      sc.type = 'text/javascript';
-      sc.async = 'async';
-      sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
-      document.body.appendChild(sc);
+        function avapil(){
+          AVUXI.llStart(map);
+        }
+      
+        var sc = document.createElement('script');
+        sc.id = 'vxscript';
+        sc.type = 'text/javascript';
+        sc.async = 'async';
+        sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
+        document.body.appendChild(sc);
 
-      function avapil(){
-        AVUXI.llStart(map);
-      }
+
       
       });
     </script>
