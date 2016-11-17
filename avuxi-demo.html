@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css" />
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
     <style type="text/css">
       #map {
         height: 500px;
@@ -30,6 +31,7 @@
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.js"></script>
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
     <script type="text/javascript">
       var map;
       $(document).ready(function(){
@@ -38,7 +40,9 @@
         function LoadMap(){
         // initialize the map on the "map" div with a given center and zoom
 
-          map = new L.map('map').setView([51.5198, -0.0928], 13);
+      map = new L.map('map',{
+         fullscreenControl: true,
+      }).setView([51.5198, -0.0928], 13);
           L.tileLayer(
             'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687',
             {
