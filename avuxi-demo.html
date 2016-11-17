@@ -7,13 +7,11 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
     <style type="text/css">
       #map {
-      height: 500px;
-      position: fixed;
-      overflow: hidden;top: 15px;left: 20px;right: 20px;bottom: 20px;border-radius: 4px;border: 5px solid white;
+        height: 500px;
       }
     </style>
   </head>
-  <body onload="LoadMap();">
+  <body>
     <div class="container">
       <div class="row" style="padding-top:20px;">
         <div class="col-lg-2">
@@ -30,28 +28,37 @@
     </div>
 
     <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-<script type='text/javascript'>
-    var map;
-function LoadMap(){
-    map = new L.map('map').setView(new L.LatLng(41.38605, 2.17014), 10);
-    var baselayer = L.tileLayer('https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687', {
-    maxZoom: 18
-    }).addTo(map);
-                
-    var sc = document.createElement('script');
-    sc.id = 'vxscript';
-    sc.type = 'text/javascript';
-    sc.async = 'async';
-    sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
-    document.body.appendChild(sc);
+    <script type="text/javascript">
+      $(document).ready(function(){
 
-}
+        var map;
+        function LoadMap(){
+          // initialize the map on the "map" div with a given center and zoom
+          map = new L.Map('map', {
+            center: new L.LatLng(51.5198, -0.0928),
+            zoom: 15
+          });
 
-function avapil(){
-    AVUXI.llStart(map);
-}
+          // create a new tile layer
+          var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687'
+          layer = new L.TileLayer(tileUrl, {maxZoom: 18});
 
-</script>
+          // add the layer to the map
+          map.addLayer(layer);
+
+          var sc = document.createElement('script');
+          sc.id = 'vxscript';
+          sc.type = 'text/javascript';
+          sc.async = 'async';
+          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
+          document.body.appendChild(sc);
+        }
+
+        function avapil(){
+          AVUXI.llStart(map);
+      }
+      LoadMap();
+    </script>
 
   </body>
 </html>
