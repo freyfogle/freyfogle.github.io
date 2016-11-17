@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>AVUXI heatmap demo</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <style type="text/css">
+      #map { height: 500px; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row" style="padding-top:20px;">
+        <div class="col-lg-2">
+          <a href="http://support.avuxi.com/support/geopopularity-heat-maps-integration">AVUXI tutorial</a>
+        </div>
+        <div class="col-lg-6">
+          <div id="map">
+          </div>
+        </div>
+        <div class="col-lg-2">
+        </div>
+      </div>
+        
+    </div>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script>
+      $(document).ready(function(){
+
+        // initialize the map on the "map" div with a given center and zoom
+        var map = new L.Map('map', {
+            center: new L.LatLng(51.5198, -0.0928),
+            zoom: 15
+        });
+
+        // create a new tile layer
+        var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687'
+        layer = new L.TileLayer(tileUrl, {maxZoom: 18});
+
+        // add the layer to the map
+      map.addLayer(layer);
+
+      var sc = document.createElement('script');
+      sc.id = 'vxscript';
+      sc.type = 'text/javascript';
+      sc.async = 'async';
+      sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
+      document.body.appendChild(sc);
+
+      function avapil(){
+        AVUXI.llStart(map);
+      }
+      
+      });
+    </script>
+
+  </body>
+</html>
