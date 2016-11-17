@@ -30,31 +30,32 @@
     <script>
       $(document).ready(function(){
 
-        // initialize the map on the "map" div with a given center and zoom
-        var map = new L.Map('map', {
+        var map;
+        function LoadMap(){
+          // initialize the map on the "map" div with a given center and zoom
+          map = new L.Map('map', {
             center: new L.LatLng(51.5198, -0.0928),
             zoom: 15
-        });
+          });
 
-        // create a new tile layer
-        var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687'
-        layer = new L.TileLayer(tileUrl, {maxZoom: 18});
+          // create a new tile layer
+          var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687'
+          layer = new L.TileLayer(tileUrl, {maxZoom: 18});
 
-        // add the layer to the map
-        map.addLayer(layer);
+          // add the layer to the map
+          map.addLayer(layer);
+
+          var sc = document.createElement('script');
+          sc.id = 'vxscript';
+          sc.type = 'text/javascript';
+          sc.async = 'async';
+          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
+          document.body.appendChild(sc);
+        }
 
         function avapil(){
           AVUXI.llStart(map);
         }
-      
-        var sc = document.createElement('script');
-        sc.id = 'vxscript';
-        sc.type = 'text/javascript';
-        sc.async = 'async';
-        sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
-        document.body.appendChild(sc);
-
-
       
       });
     </script>
