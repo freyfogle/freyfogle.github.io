@@ -41,12 +41,12 @@
           });
 
           // create a new tile layer
-          var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687'
+          var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687';
           layer = new L.TileLayer(tileUrl, {maxZoom: 18});
 
           // add the layer to the map
           map.addLayer(layer);
-
+        
           var sc = document.createElement('script');
           sc.id = 'vxscript';
           sc.type = 'text/javascript';
