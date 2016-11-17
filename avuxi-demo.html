@@ -4,7 +4,8 @@
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
     <title>AVUXI heatmap demo</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css" />
     <style type="text/css">
       #map {
         height: 500px;
@@ -28,37 +29,33 @@
     </div>
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.js"></script>
     <script type="text/javascript">
       $(document).ready(function(){
 
         var map;
         function LoadMap(){
-          // initialize the map on the "map" div with a given center and zoom
-          map = new L.Map('map', {
-            center: new L.LatLng(51.5198, -0.0928),
-            zoom: 15
-          });
+        // initialize the map on the "map" div with a given center and zoom
 
-          // create a new tile layer
-          var tileUrl = 'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687';
-          layer = new L.TileLayer(tileUrl, {maxZoom: 18});
-
-          // add the layer to the map
-          map.addLayer(layer);
-        
+      map = new L.map('map').setView([51.5198, -0.0928], 13);
+      L.tileLayer(
+          'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687',
+          { attribution: 'Map data &copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors. Tiles by <a href="http://www.stamen.com">Stamen</a>',
+            maxZoom: 18
+          }).addTo(map);
+      
           var sc = document.createElement('script');
           sc.id = 'vxscript';
           sc.type = 'text/javascript';
           sc.async = 'async';
-          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
+          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil2&ln=en';
           document.body.appendChild(sc);
         }
 
         LoadMap();
       });
-      function avapil(){
-        AVUXI.llStart(map,'729a4965ffc7f');
+      function avapil2(){
+        AVUXI.llStart(map);
       }
       
 
