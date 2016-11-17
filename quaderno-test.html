@@ -69,15 +69,16 @@
           }
           // Open Checkout with further options
           Qhandler.open({
-            type: 'subscription',
-            'transaction-type': 'eservice',
-            amount: amount,
-            gateway: 'stripe',
-            plan: plan,
-            currency: currency,      
-            description: desc,
-            color: "#1A8865",
-            quantity: 1
+      'amount': amount,
+      'color': "#1A8865",
+      'currency': currency,      
+      'description': desc,
+      'gateway': 'stripe',
+      'plan': plan,
+      'quantity': 1,
+      'taxes': 'included',
+      'transaction-type': 'eservice',
+      'type': 'subscription'
           });
           e.preventDefault();
         });
