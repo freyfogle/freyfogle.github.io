@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-    <title>AVUXI heatmap demo</title>
+    <title>AVUXI Demo</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
@@ -16,11 +16,50 @@
   <body>
     <div class="container">
       <div class="row" style="padding-top:20px;">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-6">
+          <h1>AVUXI Demo</h1>
+          AVUXI provides travel sites with simple tools to help their users
+          learn about the area around a hotel.
+          <p/>
+          These tools increase the likelihood that a customer will book a hotel
+          and thus <span style="font-weight:bold">raise revenue by several percent</span>. 
+          <p/>          
+          Learn more about <a href="http://www.avuxi.com">AVUXI</a>.
+        </div>
+        <div class="col-lg-2"></div>        
+      </div>
+
+      <div class="row" style="padding-top:20px;">
         <div class="col-lg-2">
-          <a href="http://support.avuxi.com/support/geopopularity-heat-maps-integration">AVUXI tutorial</a>
+          <h2>Heatmap:</h2>
+          The heatmap is a map overlay that works with Google or Leaflet maps.
+          Consumers can see which areas are popular for sight seeing, dining,
+          shopping, and nightlife.
+          <p/>It is installed with a few lines of javascript. 
+          <a href="http://support.avuxi.com/support/geopopularity-heat-maps-integration" target="_blank">Read the tutorial, watch 2 min video</a>.
         </div>
         <div class="col-lg-6">
           <div id="map">
+          </div>
+        </div>
+        <div class="col-lg-2">
+        </div>
+      </div>
+
+      <div class="row" style="padding-top:20px;">
+        <div class="col-lg-2">
+          <h2>Location Scores:</h2>
+          Location Scores show scores for any location
+
+          <p/>The content is available in over 20 languages. 
+          <a href="http://support.avuxi.com/support/location-score-elements">Read the tutorial, watch 1 min video</a>.
+        </div>
+        <div class="col-lg-6">
+          Here are the score for the coordinate 41.383893,2.180099.
+
+          <div>
+            <span class="vxwil" t="il20" ts="" ll="41.383893,2.180099" ></span>
           </div>
         </div>
         <div class="col-lg-2">
@@ -64,7 +103,6 @@
       function avapil3(){
         AVUXI.llStart(map,'729a4963e2bab');
       }
-      
 
     </script>
   </body>
