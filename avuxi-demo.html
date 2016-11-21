@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+    <link href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" rel="stylesheet" />
     <style type="text/css">
       #map {
         height: 500px;
@@ -20,10 +20,10 @@
         <div class="col-lg-6">
           <h1>AVUXI Demo</h1>
           AVUXI provides travel sites with simple tools to help their users
-          learn about the area around a hotel.
+          learn about the area around a hotel or vacation rental.
           <p/>
           These tools increase the likelihood that a customer will book a hotel
-          and thus <span style="font-weight:bold">raise revenue by several percent</span>. 
+          and thus <span style="font-weight:bold">raise revenue by several percent</span> (data from existing customers). 
           <p/>          
           Learn more about <a href="http://www.avuxi.com">AVUXI</a>.
         </div>
@@ -53,7 +53,7 @@
           Location Scores show scores for any location
 
           <p/>The content is available in over 20 languages. 
-          <a href="http://support.avuxi.com/support/location-score-elements">Read the tutorial, watch 1 min video</a>.
+          <a href="http://support.avuxi.com/support/location-score-elements" target="_blank">Read the tutorial, watch 1 min video</a>.
         </div>
         <div class="col-lg-6">
           Here are the score for the coordinate 41.383893,2.180099.
@@ -94,14 +94,15 @@
           sc.id = 'vxscript';
           sc.type = 'text/javascript';
           sc.async = 'async';
-          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil3&ln=en';
+          sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
           document.body.appendChild(sc);
         }
 
         LoadMap();
       });
-      function avapil3(){
+      function avapil(){
         AVUXI.llStart(map,'729a4963e2bab');
+        AVUXI.wilRefresh();
       }
 
     </script>
