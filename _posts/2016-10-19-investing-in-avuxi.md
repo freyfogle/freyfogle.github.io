@@ -5,7 +5,10 @@ title: "Investing in AVUXI"
 date: "2016-10-19 07:36:22+0000"
 categories: "angelinvesting, avuxi, topplace, travel"
 ---
-I’m pleased to announce I’ve recently invested in [AVUXI](http://www.avuxi.com). 
+I’m pleased to announce I’ve recently invested in [AVUXI](http://www.avuxi.com).
+
+**UPDATE:** Here's [a demo page showing AVUXI tools in action](/avuxi-demo.html).
+ 
 
 AVUXI aggregates all kinds of data about location and uses that to determine which areas are most relevant for certain topics. Right now their main focus is the travel industry. If you’ve ever had to book a hotel or apartment in a city you don’t know well, you have experienced the problem AVUXI is solving.  Their customers are from across the travel industries, ranging from giants of online travel like KAYAK to smaller partners like vacation rental sites.
 
