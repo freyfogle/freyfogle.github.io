@@ -50,19 +50,18 @@
       <div class="row" style="padding-top:20px;">
         <div class="col-lg-2">
           <h2>Location Scores:</h2>
-          Location Scores show scores for any location
+          Location Scores show scores for any location. It can be styled in
+          many different ways, showing just the scores and/or local POIs
 
           <p/>The content is available in over 20 languages. 
           <a href="http://support.avuxi.com/support/location-score-elements" target="_blank">Read the tutorial, watch 1 min video</a>.
         </div>
-        <div class="col-lg-6">
-          Here are the score for the coordinate 41.383893,2.180099.
+        <div class="col-lg-8">
+          Here are the score for the coordinate <a href="http://www.openstreetmap.org/#map=16/41.383893/2.180099" target="_blank">41.383893,2.180099</a> (in central Barcelona).
 
           <div>
             <span class="vxwil" t="il20" ts="" ll="41.383893,2.180099" ></span>
           </div>
-        </div>
-        <div class="col-lg-2">
         </div>
       </div>
         
@@ -75,13 +74,12 @@
       var map;
       $(document).ready(function(){
 
-
         function LoadMap(){
         // initialize the map on the "map" div with a given center and zoom
 
-      map = new L.map('map',{
-         fullscreenControl: true,
-      }).setView([51.5198, -0.0928], 13);
+          map = new L.map('map',{
+            fullscreenControl: true,
+          }).setView([51.5198, -0.0928], 13);
           L.tileLayer(
             'https://{s}.tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=ed538884554943798cab1c79964c7687',
             {
@@ -89,7 +87,8 @@
               maxZoom: 18
             }
           ).addTo(map);
-      
+
+          // load the AVUXI js      
           var sc = document.createElement('script');
           sc.id = 'vxscript';
           sc.type = 'text/javascript';
@@ -97,12 +96,12 @@
           sc.src = 'https://m.avuxiapis.com/av/729a4963e2bab?callback=avapil&ln=en';
           document.body.appendChild(sc);
         }
-
         LoadMap();
       });
+
       function avapil(){
         AVUXI.llStart(map,'729a4963e2bab');
-        AVUXI.wilRefresh();
+        AVUXI.wilRefresh();  // needed for location scores
       }
 
     </script>
