@@ -8,7 +8,7 @@ categories: "angelinvesting, hubtype, messaging, getthemsg"
 
 Some more angel investing news from me, earlier this year I invested in [Hubtype](https://hubtype.com). 
 
-Hubtype build software to allow companies to manage communicating with their customers via popular messeging services (like Facebook Messenger, Telegram, WeChat, etc). At the founders' request I've held of on announcing this investment. They've spent the last months fine-tuning the product and making sure it is enterprise ready. It now is, and is in use at one of Spain's largest banks. They are now ready to tell their story and take the service to market. 
+Hubtype build software to allow companies to manage communicating with their customers via popular messeging services (like Facebook Messenger, Telegram, WeChat, etc). At the founders' request I've held off on announcing this investment. They've spent the last months fine-tuning the product and making sure it is enterprise ready. It now is, and is in use at one of Spain's largest banks. They are now ready to tell their story and take the service to market. 
 
 Here's a screenshot of the tool as seen by customer support agents.
 <div class="ctr">
@@ -23,7 +23,7 @@ So, why did I invest, especially as this is a departure from my normal focus on 
 
 First of all, you don't need to be a digital savant to have picked up on the absolute megatrend that is the rise of messaging services as the default means of communication. Everyone I know, whether working in the digital industry or not, uses messaging services all day. Here in Spain the dominant service is (currently) Whatsapp, all activities for my kids' schools are coordinated by informal Whatsapp groups for the parents. SMS usage has plummeted, instead it is now all happening on digital messaging services. And yet, businesses have not yet caught onto this. They need to find a way to meet their consumers where the consumers already are: in messaging services. The time-trusted media investment advice that dollars follow eyeballs applies here as well, and this is a key part of my bet. 
 
-But being in the right place at the right time is not nearly enough, equally critical is the ability to execute on that opportunity. As always any angel investment is a bet on the skills and determination of the founders. The founding trio of [Eric](https://www.linkedin.com/in/ericmarcospitarch), [Marc](https://www.linkedin.com/in/mcaballe), and [Adrià](https://www.linkedin.com/in/adri%C3%A0-gasc%C3%B3n-09069229/en) is highly technical, showed me they can build a great tool, take feedback from the market, and above all that they have the "find a way, when there is no way" attitude that you need to sell to large corporates. 
+But being in the right place at the right time is not nearly enough, equally critical is the ability to execute on that opportunity. As always any angel investment is a bet on the skills and determination of the founders. The founding team of [Eric](https://www.linkedin.com/in/ericmarcospitarch), and [Marc](https://www.linkedin.com/in/mcaballe), is highly technical, showed me they can build a great tool, take feedback from the market, and above all that they have the "find a way, when there is no way" attitude that you need to sell to large corporates. 
 
 Finally, they've succeeded in attracting a great group of investors who bring many year of highly-relevant experience in customer support and enterprise software sales. I'm delighted to bring my experiences to the group.
 
