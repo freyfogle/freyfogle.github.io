@@ -12,8 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Ed Freyfogle's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://freyfogle.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: freyfogle
+github_username:  freyfogle
+encoding: utf-8
 timezone: Europe/Madrid
 
 # Build settings
