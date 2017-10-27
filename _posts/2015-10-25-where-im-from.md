@@ -9,6 +9,9 @@ My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunt
 
 Here is a list of all the places in my life I’ve lived for at least 6 weeks
 
+**Update:** this post is originally from 2015, but I've since been keeping it
+up to date
+
 <ol>
 <li>Peoria, Illinois, USA</li>
 <li>San Antonio, Texas, USA</li>
@@ -48,10 +51,15 @@ Here is a list of all the places in my life I’ve lived for at least 6 weeks
 <li>Tres Torres, Barcelona, Spain</li>
 <li>Prenzlauer Berg, Berlin, Germany (Summer 2017)</li>
 <li>Tres Torres, Barcelona, Spain</li>
+<li>Tres Torres, Barcelona, Republic of Catalonia?</li>
 </ol>
 Looking at the list I get very tired of moving. London especially was a nightmare - moving 6 times in 10 years, I’m hopeful this time we can have a bit more stability. 
 
-**Update:** added Tres Torres and Prenzlauer Berg, Aug 2017
+**Edits:**
+* added Tres Torres and Prenzlauer Berg, Aug 2017
+
 
 <i>* I don’t want to say I alone made Redchurch Street cool, but if we look at the facts they speak for themselves. </i>
+
+<i>** I don’t want to say I alone made Redchurch Street cool, but if we look at the facts they speak for themselves. </i>
 
