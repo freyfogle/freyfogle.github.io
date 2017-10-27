@@ -59,6 +59,7 @@ Looking at the list I get very tired of moving. London especially was a nightmar
 * added Republic of Catalonia
 
 **Comments:**
+
 <i>** on 27 Oct 2017, the Catalan parliament voted for independence. Not entirely clear if I changed countries or not. </i>
 
 <i>* I don’t want to say I alone made Redchurch Street cool, but if we look at the facts they speak for themselves. </i>
