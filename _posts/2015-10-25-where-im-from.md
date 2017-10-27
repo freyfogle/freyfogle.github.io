@@ -5,12 +5,11 @@ title: "Where I’m from"
 date: "2015-10-25 21:53:52+0000"
 categories: "moving"
 ---
-My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunting-again">about moving</a> prompted some discussion about how often I’ve moved (or been forced to move)
-
-Here is a list of all the places in my life I’ve lived for at least 6 weeks
-
 **Update:** this post is originally from 2015, but I've since been keeping it
-up to date
+up to date.
+
+
+My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunting-again">about moving</a> prompted some discussion about how often I’ve moved (or been forced to move). Here is a list of all the places in my life I’ve lived for at least 6 weeks
 
 <ol>
 <li>Peoria, Illinois, USA</li>
@@ -51,12 +50,14 @@ up to date
 <li>Tres Torres, Barcelona, Spain</li>
 <li>Prenzlauer Berg, Berlin, Germany (Summer 2017)</li>
 <li>Tres Torres, Barcelona, Spain</li>
-<li>Tres Torres, Barcelona, Republic of Catalonia?</li>
+<li>Tres Torres, Barcelona, Republic of Catalonia</li>
 </ol>
 Looking at the list I get very tired of moving. London especially was a nightmare - moving 6 times in 10 years, I’m hopeful this time we can have a bit more stability. 
 
 **Edits:**
 * added Tres Torres and Prenzlauer Berg, Aug 2017
+* on 27 Oct 2017, the Catalan parliament voted for independence. Not entirely
+clear if I changed countries or not. 
 
 
 <i>* I don’t want to say I alone made Redchurch Street cool, but if we look at the facts they speak for themselves. </i>
