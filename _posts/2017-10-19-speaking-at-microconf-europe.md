@@ -19,7 +19,7 @@ It is a treasure trove of hard-won knownledge from founders for founders.
 I'm looking forward to telling our story at
 [OpenCage](https://geocoder.opencagedata.com) and sharing a few lessons
 we've learned along the way. I think the main focus of my talk will be on
-building a gloabl customer base - too many of the examples I see are too US
+building a global customer base - too many of the examples I see are too US
 centric and thus not always applicable to European founders. Nevertheless, if
 you've been following our progress please do send me any suggestions you have
 for topics you'd like me to cover in the talk.
