@@ -35,7 +35,8 @@ adeus,
 Ed
 
 
- 
+**UPDATE:** MicroConf was great. Best conference I have been to in years.
+[Here's a great summary](http://www.startupsfortherestofus.com/episodes/episode-367-microconf-europe-2017-recap).
 
 
 
