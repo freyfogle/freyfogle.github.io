@@ -19,7 +19,7 @@ Anyone can sign up on the Abi site, but the most common use-case will likely be 
 So, why did I chose to invest in this business, not least as this could not be farther from my prefered category of geo/location based services?
  
 
-1. Great founders. <a href="https://www.linkedin.com/in/kimfredrik/">Kim</a> was EVP at <a href="https://en.wikipedia.org/wiki/Sermo">SERMO</a>, the largest social network for doctors. <a href="https://www.linkedin.com/in/victor-vicens-7157a05b/">Victor</a> is a doctor with experience in telemedicine. Both have lived in many different countries and know the challenge of being an expat. They understand the concerns of the patients, but also of the doctors. 
+1. Great founders. <a href="https://www.linkedin.com/in/kimfredrik/">Kim</a> was EVP at <a href="https://en.wikipedia.org/wiki/Sermo">SERMO</a>, the largest social network for doctors. <a href="https://www.linkedin.com/in/victor-vicens-7157a05b/">Victor</a> is a doctor with experience in telemedicine, having co-founded <a href="http://www.spheraglobalhealthcare.com">Spherea</a>. Both have lived in many different countries and know the challenge of being an expat. They understand the concerns of the patients, but also of the doctors. 
 
 2. I am betting on the megatrend of messaging. Like with <a href="/post/1480517643/investing-in-hubtype">my investment in Hubtype</a>, the fact that messaging has become so pervasive, and that this will necessarily spill over from private friend-to-friend interactions into more professional interactions, is a key factor. Quite simply, companies will need to begin interacting with their customers via messaging apps. It will not be easy, this is a big usability and technical challenge, but it is coming. 
  
