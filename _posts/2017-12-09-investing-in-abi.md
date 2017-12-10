@@ -9,7 +9,7 @@ categories: "angelinvesting, abi"
 Following on the post earlier this week about <a href="/post/investing-in-teragence">investing in Teragence</a>, I also wanted to write a bit about another angel investment I made last year: <a href="https://abi.ai">Abi Global Health</a>. Abi is a messenger based service that allows consumers to get health advice from actual doctors. 
 
 <div class="ctr">
-  <a href="https://abi.ai"><img src="/img/blog/abi.png"/></a>
+  <a href="https://abi.ai"><img src="/img/blog/abi.png" alt="abi"/></a>
 </div>
 
 
