@@ -86,10 +86,11 @@ Next - you (and your team) need to get out of the office. Go to relevant industr
 
 It may make sense to pay to advertise the role. That's a whole separate discussion outside of the scope of this post, but ideally you are generating enough noise in the market. Nevertheless here is my brief advice on paying to promote a role: only advertise in HIGHLY RELEVANT places. Do not advertise in a generic tech job board. Instead, sponsor the next meetup of developers of the specific programming language your business uses. Generic advertising will, best case, get generic responses. That is not what you want. If there is no good local meetup for your niche, perhaps you should start it? (_another shameless plug, if you are looking for location based service developers in London, you should [sponsor #geomob](http://geomobldn.org/sponsorship), the meetup I run_)
 
+The other point I have about advertising is to get creative. For example, if you are trying to hire in Barcelona, why not target people who left a few years ago and now might want to come back. How? Why not run Facebook ads targeting computer science grads who speak Catalan and live in London? My point is there are ways to cost-effectively reach your target audience. Get clever and try those before you just throw money at the problem. 
 
 ## Final thoughts ##
 
-Ok, this post is already to long, but the final point I always tell companies is now that you have a great candidate joining your company, make sure you put the effort into on-boarding. Getting them settled into your company well and being productive quickly. It makes a huge difference, but that’s the subject for a future post. 
+Ok, this post is already to long, but the final point I always tell companies is now that you have a great candidate joining your company, make sure you put the effort into on-boarding. Getting them settled into your company well and being productive quickly. It makes a huge difference, but that's the subject for a future post. 
 
 Happy hiring,
 Ed
