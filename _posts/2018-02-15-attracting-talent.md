@@ -38,7 +38,7 @@ Secondly, the position description should definitely include things like
 * Is it full time or would part time be ok?
 * Will you sponsor a work permit or similar for someone from another country?
 
-A question that continually comes up is whether or not to include salary. My experience is that ou should definitely include a range for expected salary. This goes a long way towards helping qualify the candidates. If you can only pay X, you don't want to spend time and effort on candidates who may be great but will demand 3X. 
+A question that continually comes up is whether or not to include salary. My experience is that you should definitely include a range for expected salary. This goes a long way towards helping qualify the candidates. If you can only pay X, you don't want to spend time and effort on candidates who may be great but will demand 3X. 
 
 Main point: **you do not want 100 candidates**, that is a ton of work to process. You want 5-10 realistic, qualified candidates for each role. 
 
