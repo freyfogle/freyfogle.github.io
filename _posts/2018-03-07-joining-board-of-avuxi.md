@@ -12,7 +12,7 @@ Some professional (and good) news from me, I'm delighted to announce I'm joining
 
 Long time readers will recall [my post from last year about investing in the business](/post/1476864000/investing-in-avuxi). Since then things have gone well for AVUXI - they've been able to win several key online travel industry clients (and a few of the bigger names in the industry are currently testing the service), and also [closed a significant investment round lead by travel giant Amadeus](http://www.avuxi.com/blog/news/amadeus-ventures-invests-in-avuxi-the-startup-that-ranks-the-popularity-of-every-place-on-earth). 
 
-Meanwhile the team continues to steadily improve the product. AVUXI gathers data from many different sources and condenses it into useful information. Booking a hotel in a city you don't know well? Want to quickly understand if the neighbourhood is good for nightlife or shopping or packed with tourists? AVUXI's heat maps and location scores let you easily do that, and thus improve the conversion rate.
+Meanwhile the team continues to steadily improve the product. AVUXI gathers data from many different sources and condenses it into useful information. Booking a hotel in a city you don't know well? Want to quickly understand if the neighbourhood is good for nightlife or shopping or near the top sightseeing areas? AVUXI's heat maps and location scores let you easily do that, and thus improve the conversion rate.
 
 [Here is a little demo page](/avuxi-demo.html) I whipped up a while back that shows the service in action, but you can also see it in this great video from AVUXI customer KAYAK.
 
