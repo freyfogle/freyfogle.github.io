@@ -6,6 +6,15 @@ date: "2018-06-16 11:39:12+0000"
 categories: "travel bestsummerever"
 ---
 
+<div class="row" style="padding-top:20px;padding-bottom:20px;">
+<div class="col-md-1"></div>
+<div class="col-md-10">
+  <img src="/img/blog/interrailing.png"/>
+</div>
+<div class="col-md-1"></div>
+</div>
+
+
 This summer I'm off on a bit of an adventure. I'm very fortunate to have a
 friend who is a bit of a train nut and plans crazy train trips (see this
 <a href="https://spark.adobe.com/page/PCoJ5a20NeHfK/">great recap of the trip they did a few years ago which I unfortunately missed</a>).
@@ -17,12 +26,5 @@ to be in any of these locations ping me and I'll let you know when we're
 passing through. 
 
 
-<div class="row" style="padding-top:20px;padding-bottom:20px;">
-<div class="col-md-1"></div>
-<div class="col-md-10">
-  <img src="/img/blog/interrailing.png"/>
-</div>
-<div class="col-md-1"></div>
-</div>
 
 
