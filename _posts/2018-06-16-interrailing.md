@@ -25,6 +25,7 @@ genau wie schon in 2014. Anyway, it promises to be a wild ride. If you happen
 to be in any of these locations ping me and I'll let you know when we're
 passing through. 
 
+**Update: the trip happened and was great. I tweeted as we went, <a href="https://twitter.com/freyfogle/status/1017300671819927553">you can follow the thread</a>.**
 
 
 
