@@ -14,7 +14,7 @@ So, **how can you make your start-up stand out** and get the right candidates in
 
 First up notice in the line above I said "the right" candidates. **The goal is not to get many candidates, it is to get people actually qualified and motivated for the role you are offering**.
 
-## Creating a great position description##
+## Creating a great position description ##
 
 ### 1. Compelling content ###
 
