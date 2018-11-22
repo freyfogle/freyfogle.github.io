@@ -11,7 +11,7 @@ email: freyfogle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Ed Freyfogle's blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://freyfogle.com" # the base hostname & protocol for your site
+url: "https://freyfogle.com" # the base hostname & protocol for your site
 twitter_username: freyfogle
 github_username:  freyfogle
 #encoding: utf-8
@@ -20,7 +20,27 @@ timezone: Europe/Madrid
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+# exclude some pages from the sitemap
+# see https://github.com/jekyll/jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: "google9a5d343ebd41e71b.html"
+    values:
+      sitemap: false
