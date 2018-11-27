@@ -35,7 +35,9 @@ You may object that all of this takes a lot of time and effort. Yes, it does. At
 Secondly, the position description should definitely include things like
 
 * Where is this role based, or is remote work possible? (if you allow remote work, how you do remote work is a topic you should go into great detail on)
+
 * Is it full time or would part time be ok?
+
 * Will you sponsor a work permit or similar for someone from another country?
 
 A question that continually comes up is whether or not to include salary. My experience is that you should definitely include a range for expected salary. This goes a long way towards helping qualify the candidates. If you can only pay X, you don't want to spend time and effort on candidates who may be great but will demand 3X. 
@@ -50,21 +52,28 @@ Next, move on to specific benefits of your company. More is more. Don't just lis
 
 One other thing is CRITICAL about your position description. And it is something most companies overlook. Include a description of what your hiring process is. One of the most common complaints that candidates have is they have no clarity on where they are in the hiring process. They submit a CV and then just wait. Will they hear back in an hour? A day? A week? 
 
-
 Define an explicit process. Be public about it, in the position description And then, VERY IMPORTANT, do what you promised! There is no better way to give candidates confidence they are dealing with a well run organization. Again, you are "showing, not telling" that you do what you say. 
 
 Here is the process I recommend for startups:
 
 1. Candidate applies
+
 2. If the candidate's background looks at all relevant, send candidate some basic questions, give them a week to answer, in writing. Questions should take them max one hour. Goal of questions is simply to eliminate time-wasters, see how enthusiastic they are, prove they can read/write English, they can follow basic instructions, they do not write 20 pages, etc.
+
 3. If answers are good, do a 45 min call (even if the candidate is nearby)
+
 4. If call is good, have the candidate come to office for half a day (or whatever length of time is appropriate for the role) interview with various people, and work with you on an actual problem, talk with people in the team, go to lunch with some future peers, etc. 
+
 5. If everyone agrees, make an offer immediately.
 
 The key benefits of this process 
+
 * You don't waste the time of your team interviewing people who you can eliminate through the test and the call.
+
 * You treat every candidate the same, there is no favoritism 
+
 * Everyone, including the candidate, knows where the candidate is in the process
+
 * It is easy to administer.
 
 If this process isn't right for your company, by all means change it to something that is. But then communicate the new process and stick to it. 
@@ -73,7 +82,7 @@ Having - and communicating! - a clear process will save you an immense amount of
 
 ## Spread the word ##
 
-Once you have great content (a compelling, informative position description with clear hiring process) make it very easy to share. Each position should be its own page, so it is easy to send to someone. At the bottom of the position descriptions literally write "Not the right role for you? Maybe it's right for one of your friends - please share with anyone you know who might be qualified.'  Add the various social links for sharing (in practice this can/should be done via a template in your CMS. Occasionally a founder will send me a position description as a pdf or word file and ask me to share it. That absolutely will not work. 
+Once you have great content (a compelling, informative position description with clear hiring process) make it very easy to share. Each position should be its own page, so it is easy to send to someone. At the bottom of the position descriptions literally write "Not the right role for you? Maybe it's right for one of your friends - please share with anyone you know who might be qualified.'  Add the various social links for sharing. In practice this can/should be done via a template in your CMS. Occasionally a founder will send me a position description as a pdf or word file and ask me to share it. That absolutely will not work. 
 
 In your regular communications with investors, advisors, friends of the business, etc include the links and ask them to share it far and wide. Include a link to your jobs page in your email footer, in all communications with customers, users, suppliers, etc. Put it at the bottom of your invoices. 
 
@@ -90,7 +99,7 @@ The other point I have about advertising is to get creative. For example, if you
 
 ## Final thoughts ##
 
-Ok, this post is already to long, but the final point I always tell companies is now that you have a great candidate joining your company, make sure you put the effort into on-boarding. Getting them settled into your company well and being productive quickly. It makes a huge difference, but that's the subject for a future post. 
+Ok, this post is already too long, but the final point I always tell companies is now that you have a great candidate joining your company, make sure you put the effort into on-boarding. Getting them settled into your company well and being productive quickly. It makes a huge difference, but that's the subject for a future post. 
 
 Happy hiring,
 Ed
