@@ -28,13 +28,13 @@ two great trainers, and it is part of my everyday routine now. I feel great.
 
 **Family**
 
-1.** More outdoor adventures with the kids**. I would say 5/10, though much of the credit goes to the great summer we had in Germany and [on Lake Michigan](/post/at-the-lake).
+1. **More outdoor adventures with the kids**. I would say 5/10, though much of the credit goes to the great summer we had in Germany and [on Lake Michigan](/post/at-the-lake).
 
 **New skills**
 
-1.**Master emacs**. 6/10. My emacs is definitely better than it was, but I would hesitate to use the word master.
+1. **Master emacs**. 6/10. My emacs is definitely better than it was, but I would hesitate to use the word master.
 
-2.**Improve my Spanish**. 2/10. Frankly I gave up on this one very early in the
+2. **Improve my Spanish**. 2/10. Frankly I gave up on this one very early in the
 year, and the situation wasn't helped by being away for 10 weeks in the summer.
 Partially I turned my attention more to professional matters and I can think of
 only a handful of situations in which it would have been advantageous
