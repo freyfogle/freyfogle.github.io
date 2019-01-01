@@ -42,14 +42,12 @@ professionally to speak Spanish. Everything I do is in English or German.
 I definitely have not picked up any Spanish by osmosis. One big challenge is
 my hearing loss, I just can not "catch" the words in Spanish. Even in English
 or German this is challenging in many situations, but the foreignness of the
-words just makes it impossible to hear what people have said.
-
-I've now lived in Spain for more than three years and speak not much better
+words just makes it impossible to hear what people have said.  
+  I've now lived in Spain for more than three years and speak not much better
 than when I arrived, which is terrible. But I'm not really sure how to improve
 things short of investing a lot of time and effort (or cost for one on one
-instruction), which frankly I'd rather spend on other things. 
-
-I'm not really sure how to go forward on this. 
+instruction), which frankly I'd rather spend on other things.  
+  I'm not really sure how to go forward on this. 
 
 
 **Professional**
