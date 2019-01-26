@@ -44,3 +44,5 @@ defaults:
       path: "google9a5d343ebd41e71b.html"
     values:
       sitemap: false
+
+theme: jekyll-theme-cayman
