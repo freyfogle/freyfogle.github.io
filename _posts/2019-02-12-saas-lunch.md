@@ -7,7 +7,7 @@ categories: "bootstrapping lunch"
 ---
 
 
-As aannounced in [my 2019 goals](/post/goals-for-2019), one of the things I wanted to
+As announced in [my 2019 goals](/post/goals-for-2019), one of the things I wanted to
 work on this year was creating more of a community around bootstrapping SaaS founders
 here in Barcelona. I love my company, but working remotely can be a bit lonely at times,
 and the few times I've met up with other micro- or boostrapping- SaaS founders (as
