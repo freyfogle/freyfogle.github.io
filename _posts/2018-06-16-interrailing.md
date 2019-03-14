@@ -25,7 +25,13 @@ genau wie schon in 2014. Anyway, it promises to be a wild ride. If you happen
 to be in any of these locations ping me and I'll let you know when we're
 passing through. 
 
-**Update: the trip happened and was great. I tweeted as we went, <a href="https://twitter.com/freyfogle/status/1017300671819927553">you can follow the thread</a>.**
+**Update: the trip happened and was great. I tweeted as we went, the thread starts here, click on the tweet to dive in**
+
+<center>
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Ok kids, here we go. Have gotten several requests to document the trip so follow this thread if you want updates. <a href="https://t.co/ZDYSSYlvRr">pic.twitter.com/ZDYSSYlvRr</a></p>&mdash; Ed Freyfogle (@freyfogle) <a href="https://twitter.com/freyfogle/status/1017300671819927553?ref_src=twsrc%5Etfw">12. Juli 2018</a></blockquote>
+</center>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
