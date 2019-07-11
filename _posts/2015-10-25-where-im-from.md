@@ -51,6 +51,7 @@ My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunt
 <li>Prenzlauer Berg, Berlin, Germany (Summer 2017)</li>
 <li>Tres Torres, Barcelona, Spain</li>
 <li>Tres Torres, Barcelona, Republic of Catalonia</li>
+<li>Prenzlauer Berg, Berlin, Germany (Summer 2019)</li>
 </ol>
 Looking at the list I get very tired of moving. London especially was a nightmare - moving 6 times in 10 years, I’m hopeful this time we can have a bit more stability. 
 
