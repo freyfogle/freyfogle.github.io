@@ -9,7 +9,7 @@ categories: "bestsummerever"
 
 Truly one of the great luxuries of my life is that I largely control my 
 schedule. As such, when school is out we are able to escape the Barcelona 
-heat and travel. THis is how I have spent the last month.
+heat and travel. This is how I have spent the last month.
 
 First I headed back to London for a few meetings and 
 [a #geomob](https://thegeomob.com/post/june-19th-2019-geomoblon-details).
