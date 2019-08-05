@@ -19,7 +19,7 @@ meeting up with friends. Work continues but at a much reduced pace.
 
 I finished reading Mitchner's _[Centennial](https://en.wikipedia.org/wiki/Centennial_(novel))_, which I had started in Colorado. As with all of his epics it is great way to learn through the medium of story. Highly recommended. Next summer I will probably read his _Texas_. I would love to find a German author who mimics this style for German regions or cities.
 
-After that I read Kim Stanley Robinson's [Aurora](https://en.wikipedia.org/wiki/Aurora_(novel)) and was blown away. 
+After that I read Kim Stanley Robinson's [_Aurora_](https://en.wikipedia.org/wiki/Aurora_(novel)) and was blown away. 
 So thought provoking. One of my favorite authors, [Amitav Ghosh](https://twitter.com/GhoshAmitav) (whose 
 newest I have not yet managed to get a hold of) often poses the question on twitter as to where the novels dealing with the climate crisis are. Surely Robinson's books must be at the top of the list. I alos very much enjoyed his [_New York 2140_](https://en.wikipedia.org/wiki/New_York_2140) which I read last year. 
 
@@ -32,7 +32,7 @@ at [Burg Hanstein](https://de.wikipedia.org/wiki/Burg_Hanstein).
 
 <div class="row" style="padding-top:20px;padding-bottom:20px;">
 <div class="col-md-1"></div>
-<div class="col-md-10">
+<div class="col-md-10 ctr">
   <img src="/img/blog/heiligenstadt.jpg"/>
 </div>
 <div class="col-md-1"></div>
