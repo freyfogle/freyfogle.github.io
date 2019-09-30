@@ -25,7 +25,7 @@ Still, this year I did make one less traditional investment; I became a
 limited partner (an LP, in the jargon of the trade) in [TinySeed](https://tinyseed.com/). TinySeed is a fund that invests in bootstrapped start-ups, mainly
 those with a SaaS business model. The TinySeed model is very different than
 most venture capital firms in that they invest a relatively small amount
-($120-200k) in 
+($120-200k depending on the number of founders) in 
 companies at a very early stage. Typically it is founders who have been 
 working on their business as a side project who use the funding the funding 
 to move to full time on the business. There is no expectation that future 
