@@ -79,10 +79,10 @@ _[Out of Beta](https://podcasts.apple.com/us/podcast/out-of-beta/id1470198478)_
 which I've enjoyed listening along to. Give it a listen if you want to learn
 more about their experiences in TinySeed. Also good is this interview
 with [Einar Vollset](https://www.danmartell.com/einarvollset-tinyseed/), the
-other TS co-founder.
+other TS co-founder, where he explains a bit more the business opportunity the fund is targeting.
 
-Applications are about to open for the second TinySeed cohort. I encourage you
-to apply if you are in the target audience. 
+On 1 November, applications will open for the second TinySeed cohort. I
+encourage you to apply if you are in the target audience. 
 
 <i>* I'm delighted to report that [Flock](https://techcrunch.com/2018/05/29/flock-raises-2-25m-for-its-on-demand-drone-insurance/), Localistico, [GetAgent](https://thenegotiator.co.uk/get-agent-investment-funding/), Abi Global Health, [Hubtype](https://techcrunch.com/2019/05/07/hubtype-raises-1-1m-to-help-developers-build-richer-chat-support/), [AVUXI](https://amadeus.com/en/insights/press-release/amadeus-ventures-invests-in-avuxi-the-startup-that-ranks-the-popularity-of-every-place-on-earth), [Perkbox](https://techcrunch.com/2019/04/30/perkbox-the-employee-experience-platform-raises-13-5m/), and [Storage Made Easy](http://www.finsmes.com/2018/04/storage-made-easy-secures-3m-in-growth-funding.html) have all raised additional funds since my initial angel investments (possibly I've overlooked a company, if so, sorry, certianly not intentional)</i>.
 
