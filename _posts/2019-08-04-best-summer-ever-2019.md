@@ -30,7 +30,7 @@ it always is in the summer, and we managed to hit the Ritterfest
 at [Burg Hanstein](https://de.wikipedia.org/wiki/Burg_Hanstein). 
 
 
-<div class="row" style="padding-top:20px;padding-bottom:20px;">
+<div class="row pb20 pt20">
 <div class="col-md-1"></div>
 <div class="col-md-10 ctr">
   <img src="/img/blog/heiligenstadt.jpg"/>
