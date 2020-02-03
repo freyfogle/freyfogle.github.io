@@ -27,7 +27,7 @@ those with a SaaS business model. The TinySeed model is very different than
 most venture capital firms in that they invest a relatively small amount
 ($120-200k depending on the number of founders) in 
 companies at a very early stage. Typically it is founders who have been 
-working on their business as a side project who use the funding the funding 
+working on their business as a side project who use the funding 
 to move to full time on the business. There is no expectation that future 
 funding rounds will take place, ideally the money will be used to get the 
 business to break even. Besides the money the TinySeed team provides a lot
