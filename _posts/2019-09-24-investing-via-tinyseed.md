@@ -71,7 +71,7 @@ MicroConfEU in Dubrovnik in a few weeks.
 
 Good luck to all the TinySeed founders (_if you're reading this, of course
 feel free to ping me if there is any way for me to help your businesses_). Two
-of the founders - Matt Wensing, of [SimSaaS](https://simsaas.co/),
+of the founders - Matt Wensing, of [Summit](https://usesummit.com/),
 and Peter Suhm, of [BranchCI](https://www.branchci.com/) - have a podcast called
 _[Out of Beta](https://podcasts.apple.com/us/podcast/out-of-beta/id1470198478)_
 which I've enjoyed listening along to. Give it a listen if you want to learn
