@@ -20,8 +20,10 @@ experience in the WordPress space from building and operating [WP Pusher](https:
 
 * The macro trend of SaaS and the move to the cloud, particularly in the case of tools for software developers, continues to gain momentum. Branch is well positioned to ride this wave.
  
-* Finally, this is a good case of investor/product fit, in that I can hopefully bring some of my experience from OpenCage - where we also build an
-infrastructure service for developers - to the business. 
+* Finally, this is a good case of investor/product fit, in that I can
+hopefully bring some of my experience from
+[OpenCage](https://opencagedata.com/) - where we also build an infrastructure
+service for developers - to the business. 
 
 <div class="row pb20 pt20">
 <div class="col-md-1"></div>
@@ -31,10 +33,11 @@ infrastructure service for developers - to the business.
 <div class="col-md-1"></div>
 </div>
 
-If you are part of the WordPress community (or even if not) I encourage you to check out Branch. You can learn more by following [@thisisbranch on twitter](https://twitter.com/thisisbranch), following [the Branch changelog](https://changelog.branchci.com/), following [Peter on twitter](https://twitter.com/petersuhm), or by listening to Peter's weekly podcast _[Out of Beta](https://outofbeta.fm/)_ (done together with Matt Wensing). I am looking forward to watching Branch
-become a critical piece of the WordPress ecosystem. 
+If you are part of the WordPress community (or even if not) I encourage you to check out Branch. You can learn more by following [@thisisbranch on twitter](https://twitter.com/thisisbranch), following [the Branch changelog](https://changelog.branchci.com/), following [Peter on twitter](https://twitter.com/petersuhm), or by listening to Peter's weekly podcast _[Out of Beta](https://outofbeta.fm/)_ (done together with Matt Wensing).
 
-_Move fast, but test often so you don't break things_
+I am looking forward to watching Branch become a critical piece of the WordPress ecosystem. 
+
+_Move fast, but test often so you don't break things._
 
 
 
