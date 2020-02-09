@@ -6,7 +6,7 @@ date: "2020-02-07 15:12:19+0000"
 categories: "investing branch"
 ---
 
-Some angel investing news - it's my pleasure to announce I'm made an investment in [Branch](https://www.branchci.com/), a continuous integration service for WordPress developers.
+Some angel investing news - it's my pleasure to announce I've made an investment in [Branch](https://www.branchci.com/), a continuous integration service for WordPress developers.
 
 As always (assuming the founders give permission), I like to document my
 thinking behind the investment, as a reference for myself in the future.
