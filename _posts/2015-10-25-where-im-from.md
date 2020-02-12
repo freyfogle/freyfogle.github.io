@@ -50,7 +50,7 @@ My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunt
 <li>Tres Torres, Barcelona, Spain</li>
 <li>Prenzlauer Berg, Berlin, Germany (Summer 2017)</li>
 <li>Tres Torres, Barcelona, Spain</li>
-<li>Tres Torres, Barcelona, Republic of Catalonia</li>
+<li>Tres Torres, Barcelona, Republic of Catalonia ** </li>
 <li>Prenzlauer Berg, Berlin, Germany (Summer 2019)</li>
 <li>Tres Torres, Barcelona</li>
 </ol>
