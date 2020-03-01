@@ -6,7 +6,7 @@ date: "2020-03-01 14:39:21+0000"
 categories: "investing summit"
 ---
 
-My angel investing activity has pisked up a bit this year; following my announcement a few weeks ago about [investing in Branch](/post/investing-in-branch), I'm pleased to announce I've now also invested in [Summit](https://usesummit.com). 
+My angel investing activity has picked up a bit this year; following my announcement a few weeks ago about [investing in Branch](/post/investing-in-branch), I'm pleased to announce I've now also invested in [Summit](https://usesummit.com). 
 
 Summit is a tool for SaaS businesses to do financial forcasting.
 
