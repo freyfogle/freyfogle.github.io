@@ -15,18 +15,13 @@ url: "https://freyfogle.com" # the base hostname & protocol for your site
 twitter_username: freyfogle
 github_username:  freyfogle
 #encoding: utf-8
-timezone: Europe/Madrid
+timezone: Europe/Berlin
 
 # Build settings
 markdown: kramdown
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-
-paginate: 10
-paginate_path: "/page/:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
