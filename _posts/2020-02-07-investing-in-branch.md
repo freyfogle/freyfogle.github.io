@@ -16,7 +16,7 @@ The decision to back Branch wasn't difficult.
 space: [Peter Suhm](https://twitter.com/petersuhm). Peter has years of
 experience in the WordPress space from building and operating [WP Pusher](https://wppusher.com/).
 
-* WordPress remains the most popular way in the world to build a website (even if it's not my cup of tea). One reason WP is so poulaar is that there is a gigantic community of plugins and tools developed by the thriving WP community. But precisely because of this massive universe of tools available to WP webmasters, again and again I would hear friends say what a pain point upgrading things was. They never have full confidence that things will work as they hope. This is a problem software should solve, and Branch is addressing this pain point by automating the entire build and testing process.
+* WordPress remains the most popular way in the world to build a website (even if it's not my cup of tea). One reason WP is so popular is that there is a gigantic community of plugins and tools developed by the thriving WP community. But precisely because of this massive universe of tools available to WP webmasters, again and again I would hear friends say what a pain point upgrading things was. They never have full confidence that things will work as they hope. This is a problem software should solve, and Branch is addressing this pain point by automating the entire build and testing process.
 
 * The macro trend of SaaS and the move to the cloud, particularly in the case of tools for software developers, continues to gain momentum. Branch is well positioned to ride this wave.
  
