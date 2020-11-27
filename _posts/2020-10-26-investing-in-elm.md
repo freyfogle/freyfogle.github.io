@@ -59,8 +59,8 @@ immediate need, and can't build the solution themselves. Elm has created
 a significantly better option than the status quo. Lots of room to keep
 improving and providing value for customers
 
-* Finally, this is again a good case of investor/product fit, where I can
-hopefully bring some of my SaaS learnings from [OpenCage](https://opencagedata.com/) and my data aggregation learnings from back in the day at Lokku - to
+* Finally, this is again a good case of investor/product fit. I can
+hopefully bring some of my SaaS learnings from [OpenCage](https://opencagedata.com/) and my data aggregation learnings from back in the day at Lokku to
 the business.
 
 Elm are [currently hiring a full-stack developer](https://apply.workable.com/getelm/j/85E23B6ED6/).
