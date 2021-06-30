@@ -17,7 +17,4 @@ Relatedly the last few weeks I’ve been reading Amitav Ghosh’s excellent <a h
 
 So far I’m really enjoying the linguistic diversity of Barcelona. Life in London was very international, it is one of the most diverse places on earth,but it felt very different simply by virtue of being all in English (or perhaps that was my perception by virtue of being a native English speaker) Here it is much more of a mix, more akin to places I have visited in India, where having some level of ability in three-four languages is the norm across all classes of society. And those languages are mixed, sometimes even in the same conversation. Itis not just multilingual, but polylingual
 
-Here’s a picture of a typical Barcelona ATM:
-
-<center><figure class="tmblr-full" data-orig-height="400" data-orig-width="600"><center><img data-orig-height="400" data-orig-width="600" alt="image" src="/img/blog/540.jpg"/></center></figure></center><p/>
 So let me know, should I dive into espanol o catala first?
