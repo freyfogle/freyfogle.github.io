@@ -37,7 +37,7 @@
         var map = L.map('map1').setView([40, 0], 5);
 
         // load map tiles
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+        L.tileLayer('https://{s}.tile.thunderforest.com/atlas/{z}/{x}/{y}{r}.png?apikey=224e9cefe709416d953c7c9177ef3ff7', {
           attribution: 'Data <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, '
           + 'Map tiles &copy; <a href="https://carto.com/attribution">CARTO</a>'
         }).addTo(map);
