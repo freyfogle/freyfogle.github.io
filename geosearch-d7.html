@@ -23,7 +23,12 @@
         </div>        
         <div class="col-2"></div>        
       </div>
-      <div class="row mt-md-5">
+      <div class="row mt-5">
+        <div class="col-2"></div>
+        <div class="col-8">city state code lat lng</div>
+        <div class="col-2"></div>
+      </div>
+      <div class="row md-5">
         <div class="col-2"></div>
         <div class="col-8" id="output"></div>
         <div class="col-2"></div>        
@@ -101,7 +106,7 @@
     plugins: [
       opencage.OpenCageGeoSearchPlugin({
         key: 'oc_gs_1aa32sizkp77po84vfmbesxie0g5jb',
-        language: 'de',
+        language: 'en',
       },
       {
         onSelect: handleSelect,
