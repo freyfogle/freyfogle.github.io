@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">  
+  <head>
+    <meta name='viewport' content='width=device-width, user-scalable=no initial-scale=1, maximum-scale=1'>
+    <meta charset="utf-8">    
+    <title>OpenCage geosearch demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@opencage/geosearch-bundle/dist/css/autocomplete-theme-classic.min.css"/>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row mt-md-5">
+        <div class="col-2"></div>
+        <div class="col-8">
+          <a href="https://opencagedata.com"><img src="/img/opencage.png" height="100" width="200" alt="OpenCage"/></a>
+        </div>        
+        <div class="col-2"></div>
+      </div>
+      <div class="row mt-md-5">
+        <div class="col-2"></div>
+        <div class="col-8">
+          <div id="place"></div>
+        </div>        
+        <div class="col-2"></div>        
+      </div>
+      <div class="row mt-md-5">
+        <div class="col-4"></div>
+        <div class="col-4" id="output"></div>
+        <div class="col-4"></div>        
+      </di>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@opencage/geosearch-bundle"></script>
+ <script>
+       
+  const handleSelect = (params) => {
+    const { item } = params;
+    console.log(item.name + ' was selected');
+    // get lat and lon
+    const q = item.geometry.lat+','+item.geometry.lng;
+    console.log('now need to reverse geocode: '+q);
+    var api_url = 'https://api.opencagedata.com/geocode/v1/json'
+    var api_key = 'fa74f008463b4371835c7d1b124b0206';
+    var request_url = api_url
+      + '?'
+      + 'key=' + api_key
+      + '&q=' + encodeURIComponent(q)
+      + '&language=en'      
+      + '&pretty=1'
+      + '&no_annotations=1';
+
+    var request = new XMLHttpRequest();
+    request.open('GET', request_url, true);
+    request.onload = function() {
+
+      if (request.status === 200){
+        // Success!
+        var data = JSON.parse(request.responseText);
+        // get the fields we need
+        var countrycode = data.results[0].components.country_code;
+        var lat = item.geometry.lat;
+        var lng = item.geometry.lng;
+        var state = 'unknown';
+        if (typeof data.results[0].components.state != 'undefined'){
+            state = data.results[0].components.state;
+        }
+        var city = item.name;
+        if (typeof data.results[0].components.city === 'undefined'){
+          if (typeof data.results[0].components.town != 'undefined'){
+            city = data.results[0].components.town;
+          }
+        } else {
+          city = data.results[0].components.city;
+        }
+          
+        var text = city + ' '
+          + state + ' '          
+          + countrycode + ' '
+          + lat + ' '
+          + lng;
+        document.getElementById("output").innerHTML = text;
+          
+
+      } else if (request.status <= 500){
+        // We reached our target server, but it returned an error
+        console.log("unable to geocode! Response code: " + request.status);
+        var data = JSON.parse(request.responseText);
+        console.log('error msg: ' + data.status.message);
+      } else {
+        console.log("server error");
+      }
+    };
+
+    request.onerror = function() {
+      // There was a connection error of some sort
+      console.log("unable to connect to server");
+    };
+    request.send();  // make the request      
+  };    
+  opencage.algoliaAutocomplete({
+    container: '#place',
+    plugins: [
+      opencage.OpenCageGeoSearchPlugin({
+        key: 'oc_gs_1aa32sizkp77po84vfmbesxie0g5jb',
+        language: 'de',
+      },
+      {
+        onSelect: handleSelect,
+      }),
+    ],
+  });
+</script>
+    
+  </body>
+</html>
