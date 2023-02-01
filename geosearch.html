@@ -34,15 +34,22 @@
   const handleSelect = (params) => {
     const { item } = params;
     console.log(item);
+    // get lat and lon
+    const text = item.geometry.lat+','+item.geometry.lng;
+    document.getElementById("output").innerHTML = text;  
   };    
   opencage.algoliaAutocomplete({
     container: '#place',
     plugins: [
-      opencage.OpenCageGeoSearchPlugin({
-        key: 'oc_gs_62210cb3acf44f10af69314623f221d5',
-        language: 'de',
-        onSelect: handleSelect,
-      }),
+      opencage.OpenCageGeoSearchPlugin(
+        {
+          key: 'oc_gs_62210cb3acf44f10af69314623f221d5',
+          language: 'de',
+        },
+        {
+          onSelect: handleSelect,
+        }  
+      ),
     ],
   });
 </script>
