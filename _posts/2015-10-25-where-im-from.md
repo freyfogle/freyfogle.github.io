@@ -65,6 +65,7 @@ My post on Friday <a href="http://www.freyfogle.com/post/131741792220/house-hunt
 Looking at the list I get very tired of moving. London especially was a nightmare - moving 6 times in 10 years, I’m hopeful this time we can have a bit more stability. 
 
 **Edits:**
+* added Moabit
 * added Prenzlauer Berg, 2024
 * added Prenzlauer Berg, 2023
 * added Prenzlauer Berg, 2022
